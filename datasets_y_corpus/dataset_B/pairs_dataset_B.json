@@ -1,0 +1,1577 @@
+[
+  {
+    "pair_id": 1,
+    "incorrect": "Na miña opinión, os pais deberían comprender ao adolescente e poder chegar a entender o seus problemas na sua vida e axudarlo o mellor que se pode, para que o neno senta ese apoio moral e poda tomar boas decisións ao largo da súa vida.",
+    "correct_standard": "Na miña opinión, os pais deberían comprender o adolescente e poder chegar a entender os seus problemas na súa vida e axudalo o mellor que se pode, para que o neno sinta ese apoio moral e poida tomar boas decisións ao longo da súa vida."
+  },
+  {
+    "pair_id": 2,
+    "incorrect": "Demais do dito, outros conflictos que se poden dar na casa é cando un fillo ten todo o quére e ameaza os pais con que se marcha ou fai que os seus pais discutan polo seu fillo.",
+    "correct_standard": "Ademais do dito, outros conflitos que se poden dar na casa ocorren cando un fillo ten todo o que quere e ameaza os pais con que se marcha ou fai que os seus pais discutan polo seu fillo."
+  },
+  {
+    "pair_id": 3,
+    "incorrect": "Na miña opinión a forma de actúar do pai non me parece a adecuada xa que por moi agobiado que este nese momento a filla non ten porque pagalo, aínda que é verdade que moitas veces os adolescentes e quizáis a maioría da xente empregamos a táctica de se eso non me funciona con un chamo ao outro, pero iso tamén acontece porque cun entendemonós mellor que co outro nalgúns aspectos.",
+    "correct_standard": "Na miña opinión, a forma de actuar do pai non me parece a adecuada, xa que, por moi agoniado que estea nese momento, a filla non ten por que pagalo, aínda que é verdade que moitas veces os adolescentes, e quizais a maioría da xente, empregamos a táctica de se iso non me funciona con un chamo ao outro \", pero iso tamén acontece porque con un entendémonos mellor que co outro nalgúns aspectos."
+  },
+  {
+    "pair_id": 4,
+    "incorrect": "En resumen, eu opino que o problema non é tan grave como se presenta no texto, e que cada vez a sociedade é mais culta, ademais, non se pode pretender que todos seamos \"Ángeles Carrocedas\" creo que os xenios, nacen sendo xenios.",
+    "correct_standard": "En resumo, eu opino que o problema non é tan grave como se presenta no texto, e que cada vez a sociedade é máis culta. Ademais, non se pode pretender que todos sexamos \"Ángeles Carracedos\"; creo que os xenios, nacen sendo xenios."
+  },
+  {
+    "pair_id": 5,
+    "incorrect": "Sen estes dous aspectos habería moi pouca evolución na sociedade xa que isto tamén beneficia ao sector económico.",
+    "correct_standard": "Sen estes dous aspectos habería moi pouca evolución na sociedade, xa que isto tamén benefician o sector económico."
+  },
+  {
+    "pair_id": 6,
+    "incorrect": "A nosa propia natureza como seres humáns e a educación que recibimos acostúmanos dende novos a buscar referentes a imitar, modelos a seguir, ao mesmo xeito que de bebés aprendemos a valernos por nós mesmos.",
+    "correct_standard": "A nosa propia natureza como seres humanos e a educación que recibimos acostúmannos dende novos a buscar referentes a imitar, modelos a seguir, do mesmo xeito que de bebés aprendemos a valernos por nós mesmos."
+  },
+  {
+    "pair_id": 7,
+    "incorrect": "Medir 1,87, pesa 40 kl e cuidarse.",
+    "correct_standard": "medir 1,87, pesar 40 kg e cuidarse."
+  },
+  {
+    "pair_id": 8,
+    "incorrect": "Moitas persoas sofren trastornos alimenticios por querer chegar ó nivel do canón establecido.",
+    "correct_standard": "Moitas persoas sofren trastornos alimentarios por querer chegar ó nivel do canon establecido."
+  },
+  {
+    "pair_id": 9,
+    "incorrect": "Polo que a solución sería o afastamento destas malas costumes e empezar con algunhas novas, cousa, que non se vai facer.",
+    "correct_standard": "Polo que, a solución sería o afastamento destas malos costumes e empezar con algúns novos, cousa, que non se vai facer."
+  },
+  {
+    "pair_id": 10,
+    "incorrect": "O uso das tecnoloxías como de outras cousas con moderación é o que se debe facer, e evitar conflictos.",
+    "correct_standard": "O Usar das tecnoloxías, como outras cousas, con moderación é o que se debe facer, e evitar conflitos."
+  },
+  {
+    "pair_id": 11,
+    "incorrect": "Ser modelo ou futbolista non é algo negativo e é moi comun que os nenos intenten ser como a xente que admiran ao igual que no pasado os nenos querian ser \"cowboys\" común chamados vaqueiros ou as nenas quixeron ser actrices; ademais co tempo os nenos cambian de opinión, polo tanto que un neno intenten ser como os seus heroes non e algo negativo.",
+    "correct_standard": "Ser modelo ou futbolista non é algo negativo e é moi común que os nenos intenten ser como a xente que admiran, ao igual que no pasado os nenos querían ser \"cowboys\", comunmente chamados vaqueiros, ou as nenas querían ser actrices; ademais, co tempo os nenos cambian de opinión; polo tanto, que un neno intente ser como os seus heroes non é algo negativo."
+  },
+  {
+    "pair_id": 12,
+    "incorrect": "A autora mostrase crítica en canto a mocidade quere dende pequenos ser futbolistas ou modelos, xa que é o que ven na tele e o que a sociedade parece que lle da mais importancia e restandolle importancia a cousas tan importantes como a musica, a ciencia, o teatro ou mismamente como vai a cultura do teu país e a presenza que ten a cultura galega nas radios, nas televisións, no cine, na prensta e ese é o problema, xa que non se valora as cousas mais importantes que non coñecemos debido a nosa ignorancia.",
+    "correct_standard": "A autora móstrase crítica en canto a que os mozos queiran dende pequenos ser futbolistas ou modelos, xa que é o que ven na tele e ó que a sociedade parece que lle dá máis importancia, e restándolle importancia a cousas tan importantes como a música, a ciencia, o teatro ou mesmamente a como vai a cultura do teu país e á presenza que ten a cultura galega nas radios, nas televisións, no cine, na prensa. E ese é o problema, xa que non se valora as cousas máis importantes que non coñecemos debido á nosa ignorancia."
+  },
+  {
+    "pair_id": 13,
+    "incorrect": "A sociedade da imaxe, sen dúbida alguna vivimos nunha socieedade maís inhibida que nunca do coñecemento.",
+    "correct_standard": "A sociedade da imaxe: sen dúbida ningunha, vivimos nunha sociedade máis inhibida que nunca do coñecemento."
+  },
+  {
+    "pair_id": 14,
+    "incorrect": "Porque nós non nos damos conta de todo o diñeiro que gastan; a comida para toda a familia, a luz da casa, o auga da casa, o seguro do coche, o seguro da casa,... En conclusión, para min estamos demasiado mimados a veces e escedemos en gastos.",
+    "correct_standard": "Porque nós non nos damos conta de todo o diñeiro que gastan; a comida para toda a familia, a luz da casa, a auga da casa, o seguro do coche, o seguro da casa,... En conclusión, para min estamos demasiado consentidos ás veces e excedémonos en gastos."
+  },
+  {
+    "pair_id": 15,
+    "incorrect": "Os fillos non podemos gastarnos todo o diñeiro en caprichos, xoguetes (e cando empezan a fumar, todo o diñeiro que se gasta en tabaco), temos que gastar o xusto e o necesario, de vez en cando algunha roupa, algún xoguete ou algún videoxogo, pero é iso, de vez en cando, non todos os días porque senón acaban arruinados.",
+    "correct_standard": "Os fillos non podemos gastar todo o diñeiro en caprichos, xoguetes (e cando empezamos a fumar, todo o diñeiro que se gasta en tabaco); temos que gastar o xusto e o necesario, de vez en cando algunha roupa, algún xoguete ou algún videoxogo, pero é iso, de vez en cando, non todos os días, porque, senón, acaban arruinados."
+  },
+  {
+    "pair_id": 16,
+    "incorrect": "Moitos hemos pasado por esta fase, o cal non quere dicir que esté ben.",
+    "correct_standard": "Moitos pasamos por esta fase, o cal non quere dicir que estea ben."
+  },
+  {
+    "pair_id": 17,
+    "incorrect": "Pero é unha etapa na que as hormonas nos controlan ao 200 %; sentímonos incomprendidos, e pensamos, relacionado co que antes cité; que coma os nosos pais son \"de outra época\" ou que \"as cousas han cambiado\" non nos comprenden.",
+    "correct_standard": "Pero é unha etapa na que as hormonas nos controlan ao 200 %; sentímonos incomprendidos, e pensamos, relacionado co que antes citei, que, como os nosos pais son \"doutra época\" ou como \"as cousas cambiaron\", non nos comprenden,"
+  },
+  {
+    "pair_id": 18,
+    "incorrect": "O malo é que a cuestión sigue sendo que isto non cambia, que queremos todo o que os demais teñen sen pararse a pensar en que é o que realmente se quere e gusta.",
+    "correct_standard": "O malo é que a cuestión segue sendo que isto non cambia, que queremos todo o que os demais teñen sen pararnos a pensar en que é o que realmente se queremos e nos gusta."
+  },
+  {
+    "pair_id": 19,
+    "incorrect": "Por outro lado cabe destacar que o que critica a autora sobre que a infancia soñe con ser futbolista ou modelo, non ten ningún punto de vista negativo, xa que todo o mundo e libre de e querer ser canto quera.",
+    "correct_standard": "Por outro lado, cabe destacar que o que critica a autora sobre que a infancia soñe con ser futbolista ou modelo, non ten ningún aspecto negativo, xa que todo o mundo é libre de e querer ser canto queira."
+  },
+  {
+    "pair_id": 20,
+    "incorrect": "Os conflitos entre pais e fillos son algo habitual xa que que queren mostrar as súas opinións, pero sempre mantendo as formas e a educación.",
+    "correct_standard": "Os conflitos entre pais e fillos son algo habitual, xa que que queren mostrar as súas opinións, pero sempre mantendo as formas e a educación."
+  },
+  {
+    "pair_id": 21,
+    "incorrect": "Por outro lado, tamén penso que nesta situación os pais de Vanesa non están pasando por un bo momento, e o pai neste caso, estao a pagar ca súa filla, como moitas veces pasa nas familias, que os fillos sen ter culpa, as pagan igualmente.",
+    "correct_standard": "Por outro lado, tamén penso que nesta situación os pais de Vanesa non están pasando por un bo momento, e o pai, neste caso, estao a pagar coa súa filla, como moitas veces pasa nas familias, en que os fillos, sen ter culpa, as pagan igualmente."
+  },
+  {
+    "pair_id": 22,
+    "incorrect": "Eu, como experiencia, podo contar que conocin unha rapaza que ca misma idade ca min, estaba tola da cabeza, quero dicir, a rapaza estaba tan desesperada porque súa nai a deixara en paz, que como os pais estaban divorciados, marchou co seu pai, e ainda por encima, denunciou a nai, polo que, cada vez penso que hai máis conflitos familiares.",
+    "correct_standard": "Eu, como experiencia, podo contar que coñecín unha rapaza que, coa mesma idade ca min, estaba tola da cabeza; quero dicir, a rapaza estaba tan desesperada por que súa nai a deixara en paz, que, como os pais estaban divorciados, marchou co seu pai, e, aínda por encima, denunciou a nai, polo que, cada vez penso que hai máis conflitos familiares."
+  },
+  {
+    "pair_id": 23,
+    "incorrect": "En definitiva, debemos saber tratar os adolescentes porque están nunha fase de cambio e as veces non son eles propiamente pero débese diferenciar o que se pode permitir e o que non e dónde se deben poñer unhas normas.",
+    "correct_standard": "En definitiva, debemos saber tratar os adolescentes porque están nunha fase de cambio e ás veces non son eles propiamente, pero débese diferenciar entre o que se pode permitir e o que non e saber onde se deben poñer unhas normas."
+  },
+  {
+    "pair_id": 24,
+    "incorrect": "Primeiramente, non é xusto valorar o estado da sociedade tendo en conta o que as persoas soñan na súa infancia.",
+    "correct_standard": "Primeiramente, non é xusto valorar o estado da sociedade tendo en conta aquilo co que as persoas soñan na súa infancia."
+  },
+  {
+    "pair_id": 25,
+    "incorrect": "A autora deste fragmento critica que a mocidade e a infancia soña con ser futbolista ou modelo maioritariamente e penso que ten toda a razón do mundo.",
+    "correct_standard": "A autora deste fragmento critica que a mocidade e a infancia soñe con ser futbolista ou modelo maioritariamente e penso que ten toda a razón do mundo."
+  },
+  {
+    "pair_id": 26,
+    "incorrect": "Ademáis da influencia que ten unha modelo ou un futbolista nos nenos, dando a entender que un corpo perfecto, e moitas veces, extremadamente delgado e pouco saudable, é o camiño cara o éxito e a felicidade, levando ó seu paso enfermidades alimenticias que poden rematar na morte O mesmo ocorre cós futbolistas, que se non estás en grandes equipos, ou se directamente o fútbol non é o teu, nunca serás nada na vida.",
+    "correct_standard": "Ademais da influencia que ten unha modelo ou un futbolista nos nenos, ao dar a entender que un corpo perfecto, e, moitas veces, extremadamente delgado e pouco saudable, é o camiño cara ao éxito e a felicidade, levando ó seu paso enfermidades alimentarias que poden rematar na morte. O mesmo ocorre cos futbolistas: que se non estás en grandes equipos, ou se directamente o fútbol non é o teu, nunca serás nada na vida."
+  },
+  {
+    "pair_id": 27,
+    "incorrect": "Outros problemas entre pais e fillos son menos importantes; o toque de queda, os amigos cos queda para saír ou as relacións amorosas.",
+    "correct_standard": "Outros problemas entre pais e fillos son menos importantes: o toque de queda, os amigos cos que quedan para saír ou as relacións amorosas."
+  },
+  {
+    "pair_id": 28,
+    "incorrect": "O texto pon coma exemplo de conflitos entre pais e fillos unha discusión telefónica.",
+    "correct_standard": "O texto pon como exemplo de conflitos entre pais e fillos unha discusión telefónica."
+  },
+  {
+    "pair_id": 29,
+    "incorrect": "Moitos dirán que a fama é complicada xa que está exposta a vida de alguén a quen queira vela, pero máis difícil é ser profesor que son os encargados de formar ós próximos profesionais ou os médicos que teñen nas súas mans a responsabilidade de salvar unha vida ou un piloto de aviación que en cada viaxe ten nas súas mans as vidas de polo menos 200 persoas.",
+    "correct_standard": "Moitos dirán que a fama é complicada, xa que está exposta a vida de alguén a quen queira vela, pero máis difícil é ser profesor, que son os encargados de formar os próximos profesionais, ou os médico, que ten nas súas mans a responsabilidade de salvar unha vida, ou un piloto de aviación, que en cada viaxe ten nas súas mans as vidas de polo menos 200 persoas."
+  },
+  {
+    "pair_id": 30,
+    "incorrect": "Nos tempos antigos os fillos acataban todo tipo de normas dádalas por seus pais pero nos tempos que corren parece que os fillos son os que obrigan os pais.",
+    "correct_standard": "Nos tempos antigos os fillos acataban todo tipo de normas dadas por seus pais, pero nos tempos que corren parece que os fillos son os que obrigan ós pais."
+  },
+  {
+    "pair_id": 31,
+    "incorrect": "Penso que tamén inflúen moitas veces nese deseo de carto rápido a nosa propia familia, que polo menos nalgúns casos, incitan aos seus fillos a xogar ao fútbol cunha presión innecesaria e llo transmiten aos seus fillos.",
+    "correct_standard": "Penso que tamén inflúe moitas veces nese desexo de carto rápido a nosa propia familia, que, polo menos nalgúns casos, incita aos seus fillos a xogar ao fútbol cunha presión innecesaria e lles transmiten aos seus fillos ese desexo."
+  },
+  {
+    "pair_id": 32,
+    "incorrect": "O problema da falta de comprensión entre ven xa de lonxe, pois, en xeral, a adolescencia é unha etapa da vida de calquera na que da comezo o proceso de madurar, mais, antes do fin do proceso, o adolescente considérase xa capaz de tomar as súas propias decisións, e non admite os razonamentos de ningún outro, o que provoca un choque cos seus pais, cos que, xeralmente está, obrigado a vivir, pois éstes seguen a ser responsables das decisións dos seus fillos, polo que, a menudo, os fan escoller a que consideran correcta.",
+    "correct_standard": "O problema da falta de comprensión entre pais e fillos vén xa de lonxe, pois, en xeral, a adolescencia é unha etapa da vida de calquera persoa na que dá comezo o proceso de madurar, mais, antes do fin do proceso, o adolescente considérase xa capaz de tomar as súas propias decisións, e non admite os razoamentos de ningún outro, o que provoca un choque cos seus pais, cos que, xeralmente, está, obrigado a vivir, pois estes seguen a ser responsables das decisións dos seus fillos, polo que, a miúdo, lles fan escoller a que consideran correcta."
+  },
+  {
+    "pair_id": 33,
+    "incorrect": "Esta claro que a culpa a teñen os fillos, xa que nadie lles obriga a actuar así, pero os pais tamen teñen algo de culpa por exemplo un adolescente que non quere facer nada da súa vida, e o pai o único que fai e decirlle todo o malo que fai, iso non é correcto e lóxico, que lle vote a bronca pero tamen hai que motivalo pra que saque forzas de onde xa non lle quedan pra facer algo da sua vida xa sexa estudar o traballar.",
+    "correct_standard": "Está claro que a culpa a teñen os fillos, xa que ninguén os obriga a actuar así, pero os pais tamén teñen algo de culpa: por exemplo, un adolescente que non quere facer nada da súa vida, e o pai o único que fai é dicirlle todo o malo que fai. Iso non é correcto e lóxico; que lle bote unha reprimenda si, pero tamén hai que motivalo pra que saque forzas de onde xa non lle quedan pra facer algo da súa vida, xa sexa estudar ou traballar."
+  },
+  {
+    "pair_id": 34,
+    "incorrect": "Opino que os problemas non se resolven nin peleando nin con castigos; os problemas entre pais e fillos arránxanse falando e dándolle a confianza ao teu fillo de contarte o que lle pasa, porque moitas veces esta rebeldía é a causa de outros problemas máis graves e posiblemente descoñecidos para os pais.",
+    "correct_standard": "Opino que os problemas non se resolven nin pelexando nin con castigos; os problemas entre pais e fillos arránxanse falando e dándolle a confianza ao teu fillo de contarche o que lle pasa, porque moitas veces esta rebeldía é a causa doutros problemas máis graves e posiblemente descoñecidos para os pais."
+  },
+  {
+    "pair_id": 35,
+    "incorrect": "Normalmente, a ceda idade dos 15 - 16 anos, os fillos entran na coñecida idade \"do pavo\" na cal estes, atopan e descubren cosas novas na súa vida, as hormonas, etc. Xeralmente, a esta idade, os xóvenes teñen o sentimento de ninguén os entende, e moito menos os pais.",
+    "correct_standard": "Normalmente, á temperá idade dos 15 - 16 anos, os fillos entran na coñecida idade \"do pavo\", na cal estes, atopan e descobren cousas novas na súa vida, as hormonas, etc. Xeralmente, a esta idade, os mozos teñen o sentimento de que ninguén os entende, e moito menos os pais."
+  },
+  {
+    "pair_id": 36,
+    "incorrect": "En conclusión, hai que actuar con sensatez e no primeiro mínimo contacto de violencia xa hai que facer algo e cortar desde o primer momento.",
+    "correct_standard": "En conclusión, hai que actuar con sensatez e no primeiro e mínimo acto de violencia xa hai que facer algo e cortar desde o primeiro momento."
+  },
+  {
+    "pair_id": 37,
+    "incorrect": "Ou dunha pequena idea se consiga escribir un libro ou unha canción?",
+    "correct_standard": "Ou que dunha pequena idea se consiga escribir un libro ou unha canción?"
+  },
+  {
+    "pair_id": 38,
+    "incorrect": "Todas as preguntas que se nos fan no texto son inconte para nós, porque como di no último parágrafo, a cultura galega non está presente en ningún medio polo que non é culpa da mocidade en concreto, senón da globalización.",
+    "correct_standard": "Todas as preguntas que se nos fan no texto son incontestábeis para nós, porque, como di no último parágrafo, a cultura galega non está presente en ningún medio, polo que non é culpa da mocidade en concreto, senón da globalización."
+  },
+  {
+    "pair_id": 39,
+    "incorrect": "Neste texto a autora fala de que gran parte da mocidade de hoxe en dia soña con ser futbolista ou modelo, e que ese feito é algo negativo para a sociedada.",
+    "correct_standard": "Neste texto a autora fala de que gran parte da mocidade de hoxe en día soña con ser futbolista ou modelo, e de que ese feito é algo negativo para a sociedade."
+  },
+  {
+    "pair_id": 40,
+    "incorrect": "Cómo non van a querer os rapaces e rapazas ser futbolistas ou modelos se son estes os que aparecen non anuncios?",
+    "correct_standard": "Como non van a querer os rapaces e rapazas ser futbolistas ou modelos se son estes os que aparecen nos anuncios,"
+  },
+  {
+    "pair_id": 41,
+    "incorrect": "Para comezar, hoxe en día son máis os adolescentes, que teñen unha actitude tirana cos seus pais ou hainos que cren que todo lles saldra ben sen ter que facer nada.",
+    "correct_standard": "Para comezar, hoxe en día son máis os adolescentes, que teñen unha actitude tirana cos seus pais ou hainos que cren que todo lles sairá ben sen ter que facer nada."
+  },
+  {
+    "pair_id": 42,
+    "incorrect": "Os pais utilizan o castigo como medio cando o seu fillo non se porta ben; isto non vai a axudar xa que o volverán a facer polo que o mellor método é unha charla onde expliques as repercusións que tendrán os seus feitos.",
+    "correct_standard": ", os pais utilizan o castigo como medio cando o seu fillo non se porta ben; isto non vai a axudar, xa que o volverán a facer, polo que o mellor método é unha charla onde expliques as repercusións que terán os seus feitos."
+  },
+  {
+    "pair_id": 43,
+    "incorrect": "Tamén a cociña con Carlos Arguiñano, cociñeiro con moitas estrelas michelín; o que impulsa á xente a cociñar e aprender recetas novas, ou tamén inventalas eles.",
+    "correct_standard": "Tamén cómpre mencionar \"A cociña con Karlos Arguiñano\", programa dun cociñeiro con moitas estrelas Michelin; o que impulsa a xente a cociñar e aprender receitas novas, ou tamén a inventalas eles."
+  },
+  {
+    "pair_id": 44,
+    "incorrect": "As comidas tradicionais sempre estaran ahí polo contrario, España é famosa pola tortilla de patacas, Francia polas \"crepes\" e Italia pola súa pasta.",
+    "correct_standard": "As comidas tradicionais sempre estarán aí, polo contrario. España é famosa pola tortilla de patacas, Francia polas \"crêpes\" e Italia pola súa pasta."
+  },
+  {
+    "pair_id": 45,
+    "incorrect": "Outra causa importante para a popularidade da gastronomía foi o seu paso á televisión mediante programas e realitis shows, en ocasións programas onde se realiza alta cociña como Masterchef por exemplo.",
+    "correct_standard": "Outra causa importante para a popularidade da gastronomía foi o seu paso á televisión mediante programas e realities shows, en ocasións programas onde se realiza alta cociña, como MasterChef, por exemplo."
+  },
+  {
+    "pair_id": 46,
+    "incorrect": "Cando dende sempre ir de compras supoñía ir a mercar algo que necesitas como os produtos básicos (comida, bebida...), agora ir de compras é un novo \"hobie\", os medios de comunicación fan que desexes e necesites ou creas necesitar algo e vas a compralo, ir de compras é divertido pero simplemente é consumismo.",
+    "correct_standard": "Cando dende sempre ir de compras supoñía ir a mercar algo que necesitas, como os produtos básicos (comida, bebida...), agora ir de compras é un novo \"hobby\". Os medios de comunicación fan que desexes e necesites ou creas necesitar algo e vas a compralo. Ir de compras é divertido, pero simplemente é consumismo."
+  },
+  {
+    "pair_id": 47,
+    "incorrect": "A todos os rapaces da miña idade supoño que polo menos algunha vez discutimos cos nos pais.",
+    "correct_standard": "A Todos os rapaces da miña idade, supoño que polo menos algunha vez, discutimos cos nosos pais."
+  },
+  {
+    "pair_id": 48,
+    "incorrect": "En conclusión eu creo que deberiamos ter máis paciencia e non enfadarnos sempre por calquera tontería e falar mellor as cousas por que cando hai comunicación as persoas entense mellor e tamén ter máis empatía cos nosos pais que xa teñen suficiente por que, ¿como sería unha vida sen pais?",
+    "correct_standard": "En conclusión, eu creo que deberiamos ter máis paciencia e non enfadarnos sempre por calquera miudeza e falar máis as cousas, porque cando hai comunicación as persoas enténdense mellor e tamén ter máis empatía cos nosos pais, que xa teñen suficiente, porque, ¿como sería unha vida sen pais?"
+  },
+  {
+    "pair_id": 49,
+    "incorrect": "Fai aproximadamente dous anos, Mercedes Queixas publicou este artigo en \"Palavra Comum\" nel gorece o seu particular sentido de ver a sociedade actual, e chega a decir \"o feito de que a infancia e a mocidade soñe con ser futbolista ou modelo moi maioritariamente\" aludindo a despreocupación cultural actual.",
+    "correct_standard": "Hai aproximadamente dous anos, Mercedes Queixas publicou este artigo en \"Palavra Comum\". nel ofrece a súa particular maneira de ver a sociedade actual, e chega a dicir \"o feito de que a infancia e a mocidade soñe con ser futbolista ou modelo moi maioritariamente\", aludindo á despreocupación cultural actual."
+  },
+  {
+    "pair_id": 50,
+    "incorrect": "En mi opinion, eu penso que estes comportamentos deben ser correxidos xa que poden chegar a destruír o futuro do adolescente, e a familia.",
+    "correct_standard": "Na miña opinión, eu penso que estes comportamentos deben ser corrixidos, xa que poden chegar a destruír o futuro do adolescente, e a familia."
+  },
+  {
+    "pair_id": 51,
+    "incorrect": "A persoa adolescente por unha serie de motivos vese, por así decilo, \"obrigada\" a través do seu instinto a exercer unha vida máis libre tendendo á desobediencia e desacordo cos pais na maioría de situacións.",
+    "correct_standard": "A persoa adolescente, por unha serie de motivos, vese, por así dicilo, \"obrigada\" a través do seu instinto a exercer unha vida máis libre, tendendo á desobediencia e desacordo cos pais na maioría de situacións."
+  },
+  {
+    "pair_id": 52,
+    "incorrect": "Estes conflitos tamén levan a peleas no núcleo familiar.",
+    "correct_standard": "Estes conflitos tamén levan a pelexas no núcleo familiar."
+  },
+  {
+    "pair_id": 53,
+    "incorrect": "É dicir, fixeron unha contribución real a humanidade.",
+    "correct_standard": "É dicir, fixeron unha contribución real á humanidade."
+  },
+  {
+    "pair_id": 54,
+    "incorrect": "Os adolescentes hoxe en día son moito máis rebeldes que antes e pretenden ser demasiado independentes.",
+    "correct_standard": "Os adolescentes hoxe en día son moito máis rebeldes que antes e pretenden ser demasiado independentes."
+  },
+  {
+    "pair_id": 55,
+    "incorrect": "A miña pregunta é ¿Porque non ser médicos, arquitectos, dentistas...?",
+    "correct_standard": "A miña pregunta é: ¿por que non ser médicos, arquitectos, dentistas...,?"
+  },
+  {
+    "pair_id": 56,
+    "incorrect": "Tamén é certo que no caso de Don Mariano, contesta de mala maneira e con malas palabras, e non é a forma máis axeitada de dirixirse a unha filla que, ao mellor, non se percatou do problema que lle supuxo ao seu pai atender esa chamada, o que agravaría aínda máis o problema.",
+    "correct_standard": "Tamén é certo que, no caso de don Mariano, contesta de mala maneira e con malas palabras, e non é a forma máis axeitada de dirixirse a unha filla que, ao mellor, non se decatou do problema que lle supuxo ao seu pai atender esa chamada, o que agravaría aínda máis o problema."
+  },
+  {
+    "pair_id": 57,
+    "incorrect": "Non todo o mundo pode chegar a xogar nunha Liga profesional porque é imposibel igual que o de ser modelo, para iso necesitase pasar unha serie de probas e ter un bó estado físico e moitas persoas que intentasen obter estos resultados non o conseguirian porque é un esforzo moi grande.",
+    "correct_standard": "Non todo o mundo pode chegar a xogar nunha liga profesional porque é imposíbel, igual que o de ser modelo. Para iso necesítase pasar unha serie de probas e ter un bo estado físico e moitas persoas que intentasen obter estes resultados non o conseguirían porque supón un esforzo moi grande."
+  },
+  {
+    "pair_id": 58,
+    "incorrect": "Neste caso dedúcese que o que pasa é que a filla de Don Mariano quere ir de compras e a nai non lle deixa, polo que chama ó seu pai para intentar convencelo.",
+    "correct_standard": "Neste caso dedúcese que o que pasa é que a filla de don Mariano quere ir de compras e a nai non lle deixa, polo que chama ó seu pai para intentar convencelo."
+  },
+  {
+    "pair_id": 59,
+    "incorrect": "Eu creo que cando somos nenos deberíamos obter unha boa educación por parte dos nosos pais privandonos de certos obxetos, aínda que choremos porque non o repetiremos nun futuro porque sabemos que non funciona.",
+    "correct_standard": "Eu creo que cando somos nenos deberiamos recibir unha boa educación por parte dos nosos pais, privándonos de certos obxectos, aínda que choremos, porque non o repetiremos nun futuro porque sabemos que non funciona."
+  },
+  {
+    "pair_id": 60,
+    "incorrect": "Neste momento nos que podamos darnos de conta do que está a suceder coa perda de interese das principais manifestacións científico-culturais, é cando deberíamos pensar todos os cidadans que é o que estamos a facer mal e se o que queremos, para o futuro das vindeiras xeracións é que aspiren a traballar como tronistas dalgún reality televisivo.",
+    "correct_standard": "Neste momento no que podemos darnos de conta do que está a suceder coa perda de interese das principais manifestacións científico-culturais, é cando deberiamos pensar todos os cidadáns que é o que estamos a facer mal e se o que queremos, para o futuro das vindeiras xeracións é que aspiren a traballar como tronistas dalgún reality televisivo."
+  },
+  {
+    "pair_id": 61,
+    "incorrect": "En resumen, creo que todos deberíamos valorar máis outras cousas non tan materialistas, e chamar a alguén, aínda que sepas que está traballando, só en caso de emerxencia.",
+    "correct_standard": "En resumo, creo que todos deberiamos valorar máis outras cousas non tan materialistas, e chamar a alguén, cando saibas que está traballando, só en caso de emerxencia."
+  },
+  {
+    "pair_id": 62,
+    "incorrect": "Cando deberíamos plantearnos a idea de que eles xa tiveron a nosa idade, e que as súas hormonas tamén estiveron \"dando tumbos\" pola súa cabeza.",
+    "correct_standard": "cando deberiamos considerar a idea de que eles xa tiveron a nosa idade, e que as súas hormonas tamén estiveron \"dando tombos\" pola súa cabeza."
+  },
+  {
+    "pair_id": 63,
+    "incorrect": "Desde moi pequenos recibimos diferentes influencias que nos marcan para o resto das nosas vidas, creando ilusións que nunca poderemos cumplir, debido a nosa condición social, ao noso físico etc... Primeiramente cabe dicir que ter aspiracións altas na vida no é algo malo, senón todo o contrario, xa que senón sempre estaríamos na nosa zona de confort.",
+    "correct_standard": "Desde moi pequenos recibimos diferentes influencias que nos marcan para o resto das nosas vidas, creando ilusións que nunca poderemos cumprir, debido á nosa condición social, ao noso físico etc.... Primeiramente, cabe dicir que ter aspiracións altas na vida non é algo malo, senón todo o contrario, xa que, se non, sempre estariamos na nosa zona de confort."
+  },
+  {
+    "pair_id": 64,
+    "incorrect": "Estou de acordo que o pai non lle dé a razón a súa filla se non a ten porque él non pode contradicir a educación que súa nai lle está impoñendo, me refiro a que si un lle consinte unha cousa e outro non lla consinte eso é unha mala referencia para a adolescente.",
+    "correct_standard": "Estou de acordo con que o pai non lle dea a razón á súa filla se non a ten, porque el non pode contradicir a educación que súa nai lle está impoñendo. me refiro a que, se un lle consente unha cousa e outro non lla consente, iso é unha mala referencia para a adolescente."
+  },
+  {
+    "pair_id": 65,
+    "incorrect": "A adolescente quere ir a sitios caros e o pai lle di que hai moitos máis sitios para comprala rebaixada.",
+    "correct_standard": "A adolescente quere ir a sitios caros e o pai lle dille que hai moitos máis sitios para comprala rebaixada."
+  },
+  {
+    "pair_id": 66,
+    "incorrect": "A rapaza precisa de chamar a atención dos seus pais (os cales non estarán moito na casa), é o fai de forma caprichosa.",
+    "correct_standard": "A rapaza precisa de chamar a atención dos seus pais (os cales non estarán moito na casa), e o faino de forma caprichosa."
+  },
+  {
+    "pair_id": 67,
+    "incorrect": "E estos conflictos familiares se desvanecen, lóxicamente todos nos tenemos pequenos roces aos 15, 30 ou 40 anos cos nosos pais, familiares e amigos, pero é o normal.",
+    "correct_standard": "E estes conflitos familiares se desvanécense. Loxicamente todos nós temos pequenos rozamentos aos 15, 30 ou 40 anos cos nosos pais, familiares e amigos, pero é o normal."
+  },
+  {
+    "pair_id": 68,
+    "incorrect": "A parte xa o simple feito de que as nenas queran ser modelos e os nenos futbolistas, nós amosa esa desigualdad que nós debemos erradicar.",
+    "correct_standard": "Á parte, xa o simple feito de que as nenas queiran ser modelos e os nenos futbolistas, nós amósanos esa desigualdade que nós debemos erradicar."
+  },
+  {
+    "pair_id": 69,
+    "incorrect": "Na época de adolescencia é unha época chea de conflictos xa que é unha etapa dura nosas vidas, e cando somos tan novos e inexpertos necesitamos o apoio de figuras paternas e maternas, sen embargo non é unha tarea doada xa que é a idade con máis cambios de humor e incomprensión por parte dos nenos xa que está chea de cambios, tanto corporales como na mentalidade.",
+    "correct_standard": "A época da adolescencia é unha época chea de conflitos, xa que é unha etapa dura das nosas vidas, e cando somos tan novos e inexpertos necesitamos o apoio de figuras paternas e maternas. Porén, non é unha tarefa doada, xa que é a idade con máis cambios de humor e incomprensión por parte dos nenos, xa que está chea de cambios, tanto corporais como na mentalidade."
+  },
+  {
+    "pair_id": 70,
+    "incorrect": "É así, que temos que tentar favorecer e axudar á sociedade da cultura, da información e de igualdade, onde todo non estea dominado polos cartos, e sexan estes os que inflúen aos nosos xoves.",
+    "correct_standard": "É así, que temos que tentar favorecer e axudar á sociedade da cultura, da información e da igualdade, onde todo non estea dominado polos cartos, e non sexan estes os que inflúan nos nosos xoves."
+  },
+  {
+    "pair_id": 71,
+    "incorrect": "Os nenos non teñen a heroes como científicos ou feministas, xa que son os estándares da sociedade actual os que non os valoran en sí.",
+    "correct_standard": "Os nenos non teñen a heroes como científicos ou feministas, xa que son os estándares da sociedade actual os que non os valoran en si mesmos."
+  },
+  {
+    "pair_id": 72,
+    "incorrect": "Por iso, temos que cambiar, dende o meu punto, o ensino e os valores que estan mamando os máis pequenos.",
+    "correct_standard": "Por iso, temos que cambiar, dende o meu punto de vista, o ensino e os valores que están mamando os máis pequenos."
+  },
+  {
+    "pair_id": 73,
+    "incorrect": "Os pais hoxe en día teñen unha difícil labor cos fillos.",
+    "correct_standard": "Os pais hoxe en día teñen un difícil labor cos fillos."
+  },
+  {
+    "pair_id": 74,
+    "incorrect": "Estou de acordo con que non fixeron unha labor cultural pero si un esforzo físico progresivo.",
+    "correct_standard": "Estou de acordo con que non fixeron un labor cultural, pero si un esforzo físico progresivo."
+  },
+  {
+    "pair_id": 75,
+    "incorrect": "Estes rapaces son o futuro da cultura galega e se non coñecen os orixes da súa cultura, que será cando estes rapaces e rapazas teñan fillos?",
+    "correct_standard": "Estes rapaces son o futuro da cultura galega e se non coñecen as orixes da súa cultura, que ocorrerá cando estes rapaces e rapazas teñan fillos?"
+  },
+  {
+    "pair_id": 76,
+    "incorrect": "Todo isto produce un empobrecemento cultural da sociedade xa que o que importa é o fútbol e a vida das distintas personaxes públicas.",
+    "correct_standard": "Todo isto produce un empobrecemento cultural da sociedade, xa que o que importa é o fútbol e a vida das distintos personaxes públicos."
+  },
+  {
+    "pair_id": 77,
+    "incorrect": "Chegamos a esta situación pola cultura do carto rápido como menciona o texto de Mercedes Queixas, a sociedade promove a búsqueda de fortuna a cambio de nada en lugar de buscar o reconocimento social por unha labor ben feita.",
+    "correct_standard": "Chegamos a esta situación pola cultura do carto rápido. Como sinala o texto de Mercedes Queixas, a sociedade promove a busca de fortuna a cambio de nada en lugar de buscar o recoñecemento social por un labor ben feito."
+  },
+  {
+    "pair_id": 78,
+    "incorrect": "Toda esta xente trascendeu, deixando tras de si un legado que fai posible a sociedade na que vivimos.",
+    "correct_standard": "Todas estas xente trascenderon, deixando tras de si un legado que fai posible a sociedade na que vivimos."
+  },
+  {
+    "pair_id": 79,
+    "incorrect": "A confianza e o respeto veñen ligados á educación.",
+    "correct_standard": "A confianza e o respecto veñen ligados á educación."
+  },
+  {
+    "pair_id": 80,
+    "incorrect": "Na miña opinión, visto dende fóra, o problema entre Vanesa e os seus pais é a rebeldía e o seu desexo de facer o que lle ven en gana Aínda así, non apoio que os pais lle falten ao respeto aos seus fillos cando non fan o que deben ou levan unha mala racha.",
+    "correct_standard": "Na miña opinión, visto dende fóra, o problema entre Vanesa e os seus pais é a rebeldía e o seu desexo de facer o que lle apetece. Aínda así, non apoio que os pais lles falten ao respecto aos seus fillos cando non fan o que deben ou levan unha mala tempada."
+  },
+  {
+    "pair_id": 81,
+    "incorrect": "A falta de educación é un problema moi grave xa que cada vez a sociedade vaise facendo máis vulgar; a falta de respeto hacia os pais orixina que non teñan respeto polas outras persoas.",
+    "correct_standard": "A falta de educación é un problema moi grave, xa que cada vez a sociedade se vai facendo máis vulgar; a falta de respecto cara aos pais orixina que non teñan respecto polas outras persoas."
+  },
+  {
+    "pair_id": 82,
+    "incorrect": "Imos crecendo e xogamos ás bonecas, e son tan perfetas, altas e delgadas.",
+    "correct_standard": "Imos crecendo e xogamos ás bonecas, e son tan perfectas, altas e delgadas."
+  },
+  {
+    "pair_id": 83,
+    "incorrect": "En conclusión, o mellor que podes facer é educar a teu fillo dunha maneira adecuada, non só polo simple feito de que sempre che pida cousas, se non, porque a súa actitude contigo será totalmente diferente.",
+    "correct_standard": "En conclusión, o mellor que podes facer é educar ao teu fillo dunha maneira adecuada, non só polo simple feito de que sempre che pida cousas, senón, porque a súa actitude contigo será totalmente diferente."
+  },
+  {
+    "pair_id": 84,
+    "incorrect": "Isto pasou, pasa e pasará por que todos somos nenos nalgún momento na nosa vida, eu penso nos nosos pais e penso pobres, o que lle facemos pasar.",
+    "correct_standard": "Isto pasou, pasa e pasará porque todos somos nenos nalgún momento na nosa vida. Eu penso nos nosos pais e penso: \"pobres, o que lles facemos pasar\"."
+  },
+  {
+    "pair_id": 85,
+    "incorrect": "Non é só pola ropa, se nón que agora coa época da tecnoloxía gastase moito máis.",
+    "correct_standard": "Non é só pola roupa, senón que agora, coa época da tecnoloxía, gástase moito máis."
+  },
+  {
+    "pair_id": 86,
+    "incorrect": "A realidade non é tan negativa como a presenta se non que ese feito e algo moi normal.",
+    "correct_standard": "A realidade non é tan negativa como a presenta, senón que ese feito é algo moi normal."
+  },
+  {
+    "pair_id": 87,
+    "incorrect": "En conclusión, quizá a cultura galega en certos ámbitos non sexa o máis interesante para os rapaces, pero non é por que soamente soñen con modelos e deportistas, senon porque buscan outro tipo de cultura sexa artística, científica ou doutro tipo...",
+    "correct_standard": "En conclusión, quizá a cultura galega en certos ámbitos non sexa o máis interesante para os rapaces, pero non é porque soamente soñen con modelos e deportistas, senón porque buscan outro tipo de cultura, sexa artística, científica ou doutro tipo."
+  },
+  {
+    "pair_id": 88,
+    "incorrect": "Que os mozos queran ser futbolistas ou modelos é un sono que moitos teñen na mente pero que en realidade saben que é algo moi dificil de realizar a si que é mellor que estuden a que segan con un soño que non se vai poder cumplir.",
+    "correct_standard": "Que os mozos queiran ser futbolistas ou modelos é un soño que moitos teñen na mente, pero que en realidade saben que é algo moi difícil de realizar, así que é mellor que estuden a que sigan cun soño que non se vai poder cumprir."
+  },
+  {
+    "pair_id": 89,
+    "incorrect": "Por parte dos pais que só queren o mellor para os seus fillos, e para os fillos que queren ter liberdade coma os adultos.",
+    "correct_standard": "Por parte dos pais, que só queren o mellor para os seus fillos, e, por parte dos fillos, que queren ter liberdade coma os adultos."
+  },
+  {
+    "pair_id": 90,
+    "incorrect": "É certo que moitos nenos e nenas teñen soños con ser futbolistas ou modelos, é de acordo a autora, non é un bo síntoma de mentalidade social.",
+    "correct_standard": "É certo que moitos nenos e nenas teñen soños de ser futbolistas ou modelos, e, de acordo á autora, non é un bo síntoma da mentalidade social."
+  },
+  {
+    "pair_id": 91,
+    "incorrect": "Por norma xeral, neste tipo de conflitos, cando o pai ou a nai din que non a algo que a filla ou o fillo queren, adoita ser para que os fillos aprendan unha lección, co cal, sempre deberían facerlle caso aos pais, e por desgracia, isto non é así.",
+    "correct_standard": "Por norma xeral, neste tipo de conflitos, cando o pai ou a nai din que non a algo que a filla ou o fillo queren, adoita ser para que os fillos aprendan unha lección, co cal, sempre deberían facerlles caso aos pais, e, por desgraza, isto non é así."
+  },
+  {
+    "pair_id": 92,
+    "incorrect": "Un deles é o típico que ocorre cando o pai ou, en este caso a nai, dille que non a algo que o fillo ou filla desexa.",
+    "correct_standard": "Un deles é o típico que ocorre cando o pai, ou, neste caso a nai, lle di que non a algo que o fillo ou a filla desexa."
+  },
+  {
+    "pair_id": 93,
+    "incorrect": "Realmente deberíase cobrar en función a responsabilidade á que se esté exposto no traballo e non por saír na televisión ou en internet.",
+    "correct_standard": "Realmente deberíase cobrar en función á responsabilidade á que se estea teña no traballo e non por saír na televisión ou en Internet."
+  },
+  {
+    "pair_id": 94,
+    "incorrect": "Problemas como este poden levarse ao extremo como pode verse en programas como \"Hermano mayor\" onde os rapaces causan problemas serios nas casas.",
+    "correct_standard": "Problemas como este poden levarse ao extremo, como pode verse en programas como \"Hermano Mayor\", onde os rapaces causan problemas serios nas casas."
+  },
+  {
+    "pair_id": 95,
+    "incorrect": "Os nenos e nenas de hoxe en día crecen acostumados a analizar moita información que poden percibir a través de internet, anuncios pola rúa ou pola televisión, sobre todo pola televisión.",
+    "correct_standard": "Os nenos e nenas de hoxe en día crecen acostumados a analizar moita información que poden percibir a través de Internet, anuncios pola rúa ou pola televisión, sobre todo pola televisión..."
+  },
+  {
+    "pair_id": 96,
+    "incorrect": "estos conflictos veñen dados por ambas dúas partes xa que é unha etapa onde os fillos pasan de ser nenos a adolescentes e iso ás veces non é doado para os pais.",
+    "correct_standard": "Estes conflitos veñen dados por ambas as dúas partes, xa que é unha etapa onde os fillos pasan de ser nenos a adolescentes e iso ás veces non é doado para os pais."
+  },
+  {
+    "pair_id": 97,
+    "incorrect": "con isto non quero dicir que os grandes persoaxes públicos sexan uns vagos, cada un vive do que lle gusta e polo que loita.",
+    "correct_standard": "Con isto non quero dicir que os grandes personaxes públicos sexan uns vagos, cada un vive do que lle gusta e polo que loita."
+  },
+  {
+    "pair_id": 98,
+    "incorrect": "Estos modelos de comportamento e seguimento deben cambiar.",
+    "correct_standard": "Estes modelos de comportamento e seguimento deben cambiar."
+  },
+  {
+    "pair_id": 99,
+    "incorrect": "Verdadeiramente, como di a autora, estos personaxes non deberían nin influenciar desta maneira nin ser capaces de persuadir á sociedade.",
+    "correct_standard": "Verdadeiramente, como di a autora, estes personaxes non deberían nin influenciar desta maneira nin ser capaces de persuadir a sociedade."
+  },
+  {
+    "pair_id": 100,
+    "incorrect": "Todos esos momentos non se mostran e igual sería moi interesante facelo, porque nesta vida, de balde, non hai nada.",
+    "correct_standard": "Todos eses momentos non se mostran e igual sería moi interesante facelo, porque nesta vida, de balde, non hai nada."
+  },
+  {
+    "pair_id": 101,
+    "incorrect": "No obstante os fillos nalgúns casos son moi irresponsables e non pensan que aos pais lles costa traballar para que nos poidamos disfrutar dunhas condicións de vida boas Algunas persoas non lle importa o esforzo realizado polos pais senon que se dedican a pedir diñeiro ou que lle compre roupa e eles en vez de recompensar polo menos aos seus pais estudando, pasanse o tempo saindo cos seus amigos.",
+    "correct_standard": "Non obstante, os fillos nalgúns casos son moi irresponsables e non pensan que aos pais lles custa traballar para que nós poidamos gozar dunhas condicións de vida boas. A algunhas persoas non lles importa o esforzo realizado polos pais, senón que se dedican a pedir diñeiro ou que lles compren roupa e eles, en vez de recompensar polo menos aos seus pais estudando, pasan o tempo saíndo cos seus amigos."
+  },
+  {
+    "pair_id": 102,
+    "incorrect": "Mais tamén pode ser de que o rapaz non estea ben cos seus pais e por iso haia ises problemas ou que estea con moito estrés, na cal isto pode xerar problemas temporais.",
+    "correct_standard": "Mais tamén pode ser de que o rapaz non estea ben cos seus pais e por iso haxa eses problemas ou que estea con moito estrés, o cal isto pode xerar problemas temporais."
+  },
+  {
+    "pair_id": 103,
+    "incorrect": "Un inconveniente máis propio da actualidade da convivencia entre pais e fillos é a gran taxa de paro xuvenil, pois, hai anos, ante unha situación familiar totalmente insostenible, o fillo só tiña que agardar aos dezaoito anos para traballar e poder saír da casa, mais, hoxe, se non quere rematar vivindo na rúa, necesita estudos para atopar un traballo, e, mentres estuda, ten que estar na casa, o que pode provocar, na maioría dos casos, que o fillo remate de madurar e faga as paces cos seus pais ou, noutros, que o fillo teña que \"buscarse a vida\", o que non sempre remata ben.",
+    "correct_standard": "Un inconveniente máis propio da actualidade da convivencia entre pais e fillos é a gran taxa de paro xuvenil, pois, hai anos, ante unha situación familiar totalmente insostible, o fillo só tiña que agardar aos dezaoito anos para traballar e poder saír da casa, mais, hoxe, se non quere rematar vivindo na rúa, necesita estudos para atopar un traballo, e, mentres estuda, ten que estar na casa, o que pode provocar, na maioría dos casos, que o fillo remate de madurar e faga as paces cos seus pais ou, noutros, que o fillo teña que \"buscar a vida\", o que non sempre remata ben."
+  },
+  {
+    "pair_id": 104,
+    "incorrect": "Estas actitudes non son boas nin pra os fillos nin pra os pais, as cales poden chegar a acabar en conflicto.",
+    "correct_standard": "Estas actitudes non son boas nin pra os fillos nin pra os pais, e as cales poden chegar a acabar en conflito."
+  },
+  {
+    "pair_id": 105,
+    "incorrect": "A audiencia medra considerablemente na información deportiva, especialmente tras eventos \"sinalados\", dos cales poden estar falando e sacándolles información e temas durante un gran número de días.",
+    "correct_standard": "A audiencia medra considerablemente na información deportiva, especialmente tras eventos \"sinalados\", dos cales poden estar falando e sacando información e temas durante un gran número de días."
+  },
+  {
+    "pair_id": 106,
+    "incorrect": "En conclusión, a mocidade, tanto pequenos como maiores, debería de deixar de centrarse en ser popular e chegar a ser quen realmente se quere, e con una cultura básica.",
+    "correct_standard": "En conclusión, a mocidade, tanto pequenos como maiores, debería de deixar de centrarse en ser popular e chegar a ser quen realmente se quere, e cunha cultura básica."
+  },
+  {
+    "pair_id": 107,
+    "incorrect": "Na miña opinión creo que é culpa das dúas partes: dos pais por consentir máis do que deben e dos fillos por ser demasiado egoístas O outro problema é o de \"dillo a mamá\" ou \"dillo a papá\", que é o que a maioría dos pais din ós seus fillos cando non teñen a forza para tomar unha decisión ou simplemente queren quitarse a responsabilidade de enriba.",
+    "correct_standard": "Na miña opinión, creo que é culpa das dúas partes: dos pais por consentir máis do que deben e dos fillos por ser demasiado egoístas. O outro problema é o de \"dillo a mamá\" ou \"dillo a papá\", que é o que a maioría dos pais din ós seus fillos cando non teñen a forza para tomar unha decisión ou simplemente queren quitar a responsabilidade de enriba."
+  },
+  {
+    "pair_id": 108,
+    "incorrect": "Non discuto, que ás veces pódase dar un capricho ao fillo, pero todo en exceso é malo, e ao mellor chega o momento no que non podas compracelos como sempre e estes estén mal acostumados.",
+    "correct_standard": "Non discuto, que ás veces se poida dar un capricho ao fillo, pero todo en exceso é malo, e ao mellor chega o momento no que non poidas compracelo como sempre e o rapaz estea mal acostumado."
+  },
+  {
+    "pair_id": 109,
+    "incorrect": "A importancia da imaxe persoal ten máis valor que nunca, deixando como consecuencia, atrás todo tipo de coñecementos que lle axuden a mellorar como persoa.",
+    "correct_standard": "A importancia da imaxe persoal ten máis valor que nunca, deixando, como consecuencia, atrás todo tipo de coñecementos que nos axuden a mellorar como persoas."
+  },
+  {
+    "pair_id": 110,
+    "incorrect": "Os pais, preocupados polos seus fillos, a súa estabilidade e o seu futuro, ás veces, intentan dar unha gran protección e pouca liberdade aos seus fillos que acaba por aborrecer a estes creando así un malestar no ambiente familiar.",
+    "correct_standard": "Os pais, preocupados polos seus fillos, a súa estabilidade e o seu futuro, ás veces, intentan dar unha gran protección e pouca liberdade aos seus fillos, que acaban por aborrecer a aqueles, creando así un malestar no ambiente familiar."
+  },
+  {
+    "pair_id": 111,
+    "incorrect": "En conclusión, a protección dos pais aos cativos é necesaria, así como o consello destes, e aínda sendo esta en xusta medida os problemas de entendemento na casa nestas idades son prácticamente inevitables.",
+    "correct_standard": "En conclusión, a protección dos pais aos cativos é necesaria, así como o consello destes, e, aínda ofrecéndose a primeira na súa xusta medida, os problemas de entendemento na casa nestas idades son practicamente inevitables."
+  },
+  {
+    "pair_id": 112,
+    "incorrect": "Por outra banda una sobreprotección do menor por parte dos pais, pode levar a este a una inestabilidade moi perigosa en todolos ámbitos da rutina diaria.",
+    "correct_standard": "Por outra banda, unha sobreprotección do menor por parte dos pais, pode levar a aquel a unha inestabilidade moi perigosa en tódolos ámbitos da rutina diaria."
+  },
+  {
+    "pair_id": 113,
+    "incorrect": "Ensinemos os nenos o verdadeiro significado do valor, de a gran riqueza.",
+    "correct_standard": "Ensinemos ós nenos o verdadeiro significado do valor, da gran riqueza."
+  },
+  {
+    "pair_id": 114,
+    "incorrect": "O gracioso é que non me sorprende en absoluto ningunha das dúas respostas xa que os culpables de elas somos nós e a sociedade na que vivimos.",
+    "correct_standard": "O gracioso é que non me sorprende en absoluto ningunha das dúas respostas, xa que os culpables delas somos nós e a sociedade na que vivimos."
+  },
+  {
+    "pair_id": 115,
+    "incorrect": "De estas situacións moitas veces proveñen os casos de acoso ou \"bullying\" que se sofre tanto na escola como polas redes.",
+    "correct_standard": "Destas situacións moitas veces proveñen os casos de acoso ou \"bullying\" que se sofre tanto na escola como polas redes."
+  },
+  {
+    "pair_id": 116,
+    "incorrect": "Todos os deportistas, non tiveron un acceso ao carto rápido como di no texto.",
+    "correct_standard": "Todos os deportistas, non tiveron un acceso ao carto rápido, como di no texto."
+  },
+  {
+    "pair_id": 117,
+    "incorrect": "Pero hai outros cómo por exemplo cando unha nai ou un pai manda facer algo e non o fan.",
+    "correct_standard": "Pero hai outros como, por exemplo, que unha nai ou un pai manda facer algo e non o fagan."
+  },
+  {
+    "pair_id": 118,
+    "incorrect": "Se ben é certo que a falta de mentes privilexiadas escasea, non creo que que os rapaces queiran ser futbolistas ou modelos sexa algo malo.",
+    "correct_standard": "Se ben é certo que a falta de mentes privilexiadas escasea, non creo que que os rapaces queiran ser futbolistas ou modelos sexa algo malo."
+  },
+  {
+    "pair_id": 119,
+    "incorrect": "Neste caso fala dese conflicto pero existen moitos máis.",
+    "correct_standard": "Neste caso fala dese conflito, pero existen moitos máis."
+  },
+  {
+    "pair_id": 120,
+    "incorrect": "Non pensa nas repercusións que pode ter.",
+    "correct_standard": "Non pensa nas repercusións que poden ter."
+  },
+  {
+    "pair_id": 121,
+    "incorrect": "A infancia e a mocidade soña con ser futbolista e modelo porque son traballos sinxelos e no que gañan moito diñeiro pero a realidade é que non todo o mundo pode ser futbolista ou modelo.",
+    "correct_standard": "A infancia e a mocidade soña con ser futbolista e modelo porque son traballos sinxelos e nos que gañan moito diñeiro, pero a realidade é que non todo o mundo pode ser futbolista ou modelo."
+  },
+  {
+    "pair_id": 122,
+    "incorrect": "Non só as novas xeracións están implicadas nestes ámbitos, eu creo que todos en maior ou menor medida dexesamos dedicarnos algunha vez a algo relacionado con estes dous mundos.",
+    "correct_standard": "Non só as novas xeracións están implicadas nestes ámbitos. Eu creo que todos, en maior ou menor medida, desexamos dedicarnos algunha vez a algo relacionado con estes dous mundos."
+  },
+  {
+    "pair_id": 123,
+    "incorrect": "Eu penso que se debería empezar a apostar por unha sociedade na que se desenvolvan ámbitos como o do cine o do teatro ou algo que revalorize a cultura galega, unha das cousas que nos implica a todos e que por desgraza está moi pouco desenvolta.",
+    "correct_standard": "Eu penso que se debería empezar a apostar por unha sociedade na que se desenvolvan ámbitos como o do cine, o do teatro ou algo que revalorice a cultura galega, unha das cousas que nos implica a todos e que por desgraza está moi pouco desenvolvida."
+  },
+  {
+    "pair_id": 124,
+    "incorrect": "Se desenboca nisto, a familia terá un grave problema, posto que isto non axuda a súa unión, o contrario separaa máis.",
+    "correct_standard": "Se desemboca nisto, a familia terá un grave problema, posto que isto non axuda á súa unión, ó contrario, sepáraa máis."
+  },
+  {
+    "pair_id": 125,
+    "incorrect": "Pero aínda que nos comprendan teñen que nos marcar unhas directrices a seguir, xa que somos inespertos e tomamos decisións aloucadas e sen unha previa meditación, e por riba non pensamos no noso futuro solo no presente, en pasalo ben e disfrutar ata o último segundo de todo.",
+    "correct_standard": "Pero aínda que nos comprendan teñen que nos marcar unhas directrices a seguir, xa que somos inexpertos e tomamos decisións aloucadas e sen unha previa meditación, e por riba non pensamos no noso futuro, só no presente, en pasalo ben e gozar ata o último segundo de todo."
+  },
+  {
+    "pair_id": 126,
+    "incorrect": "No texto temos o exemplo dunha filla, Vanesa, que discute cos seus pais porque quere ir mercar ropa nova e eles neganse coa excusa de que xa ten moita no seu armario.",
+    "correct_standard": "No texto temos o exemplo dunha filla, Vanesa, que discute cos seus pais porque quere ir mercar roupa nova e eles néganse coa escusa de que xa ten moita no seu armario."
+  },
+  {
+    "pair_id": 127,
+    "incorrect": "O problema é que as veces a razón temola nos, e eles case nunca o admiten, e por isto que moitos adolescentes revelanse e o que podía ser unha simple conversación domestica convertese nunha grave discusión.",
+    "correct_standard": "O problema é que ás veces a razón témola nós, e eles case nunca o admiten. É por isto que moitos adolescentes se rebelan e o que podía ser unha simple conversación doméstica convértese nunha grave discusión."
+  },
+  {
+    "pair_id": 128,
+    "incorrect": "Na época da adolescencia é moi común que a xuventude sea abariciosa e non se den conta do que implica comprar certas cousas.",
+    "correct_standard": "Na época da adolescencia é moi común que a xuventude sexa avariciosa e non se dea conta do que implica comprar certas cousas."
+  },
+  {
+    "pair_id": 129,
+    "incorrect": "Por ultimo, cave destacar que e mais facil que un neno xogue ao futbol que so necesita un balón en vez de xogar o laboratorio que necesita ferramentas, polo que é mais facil que o futbol se achegue a mocidade.",
+    "correct_standard": "Por último, cabe destacar que é máis fácil que un neno xogue ao futbol, que só necesita un balón, en vez de xogar ó laboratorio, que necesita ferramentas, polo que é máis fácil que o fútbol se achegue á mocidade."
+  },
+  {
+    "pair_id": 130,
+    "incorrect": "A día de hoxe bombardéasenos con noticias vanais constantemente deixando totalmente de lado a cultura ou os novos descubrimentos científicos.",
+    "correct_standard": "A día de hoxe bombardéasenos con noticias banais constantemente, deixando totalmente de lado a cultura ou os novos descubrimentos científicos."
+  },
+  {
+    "pair_id": 131,
+    "incorrect": "Nalgúns casos os pais teñen unha visión do que é mellor para o seu fillo incorrecto.",
+    "correct_standard": "Nalgúns casos, os pais teñen unha visión do que é mellor para o seu fillo incorrecta."
+  },
+  {
+    "pair_id": 132,
+    "incorrect": "Co paso dos anos a xuventude cada vez sieguen a mais xente e queren ser coma eles.",
+    "correct_standard": "Co paso dos anos a xuventude cada vez segue a máis xente e quere ser coma ela."
+  },
+  {
+    "pair_id": 133,
+    "incorrect": "Esta é a razón pola que estou de acordo coa autora, porque calqueira pode soñar con ser futbolista ou modelo pero hai que saber soñar e saber escoller, pois a cultura xeralmente abre máis portas e non termina sendo tóxico para o coñecemento social tanto como o fai ese mundo do que tantos falan.",
+    "correct_standard": "Esta é a razón pola que estou de acordo coa autora, porque calquera pode soñar con ser futbolista ou modelo, pero hai que saber soñar e saber escoller, pois a cultura xeralmente abre máis portas e non termina sendo tóxica para o coñecemento social, tanto como o é ese mundo do que tantos falan."
+  },
+  {
+    "pair_id": 134,
+    "incorrect": "Polo tanto a sociedade vai un pouco sen rumbo e debería abrirse máis aos seus verdadeiras preferencias o que levará a que se den a coñecer as persoas e as cousas que realmente son importantes.",
+    "correct_standard": "Polo tanto, a sociedade vai un pouco sen rumbo e debería abrirse máis aos súas verdadeiras preferencias, o que levará a que se dean a coñecer as persoas e as cousas que realmente son importantes."
+  },
+  {
+    "pair_id": 135,
+    "incorrect": "Para concluir, hai moitas casos de violencia contra os pais por eses argumentos que din.",
+    "correct_standard": "Para concluír, hai moitos casos de violencia contra os pais por eses argumentos que dei."
+  },
+  {
+    "pair_id": 136,
+    "incorrect": "Os conflitos familiares son moi peculiares en todas as familias, xa que todos teñen falta de fala, debido a que non intercambian conversas, polo tanto a familia non comprende o que lle pasa o fillo, nin el aos pais.",
+    "correct_standard": "Os conflitos familiares son moi habituais en todas as familias, xa que todas teñen falta de comunicación, debido a que non intercambian conversas. polo tanto, a familia non comprende o que lle pasa ó fillo, nin el aos pais."
+  },
+  {
+    "pair_id": 137,
+    "incorrect": "Hoxe en día os adolescentes cren que poden facer o que eles queiran e tratan a súa familia como lles veña en gana.",
+    "correct_standard": "Hoxe en día os adolescentes cren que poden facer o que eles queiran e tratan a súa familia como se lles veña en gana."
+  },
+  {
+    "pair_id": 138,
+    "incorrect": "Ademais da violencia física tamén está a psicolóxica que soen estar ligadas nestes tipo de casos, nos que estes adolescentes incontrolables manipulan aos demáis.",
+    "correct_standard": "Ademais da violencia física, tamén está a psicolóxica, que adoitan estar ligadas neste tipo de casos, nos que estes adolescentes incontrolables manipulan aos demais."
+  },
+  {
+    "pair_id": 139,
+    "incorrect": "Como ela mismo di, o feito de que a infancia e a mocidade soñe con ser futbolista ou modelo non é algo do que sentirse verdadeiramente orgulloso.",
+    "correct_standard": "Como ela mesma di, o feito de que a infancia e a mocidade soñe con ser futbolista ou modelo non é algo do que sentirse verdadeiramente orgulloso."
+  },
+  {
+    "pair_id": 140,
+    "incorrect": "Ben, é realmente triste que a xente nova de hoxe en día, pense que vai ter unha vida máis fácil polo feito de ser coñecido por todo o mundo e facer algo para o que vales xa sen estudar.",
+    "correct_standard": "Ben, é realmente triste que a xente nova de hoxe en día, pense que vai ter unha vida máis fácil polo feito de ser coñecida por todo o mundo e facer algo para o que vales xa sen estudar."
+  },
+  {
+    "pair_id": 141,
+    "incorrect": "Hai que deixarse de sensacionalismo e pensar no ben común non en facerse rico pola cara, porque ao final isto o que fomenta é un futuro cheo de xente inculta coa súa fama frustrada.",
+    "correct_standard": "Hai que deixarse de sensacionalismo e pensar no ben común, non en facerse rico pola cara, porque ao final isto o que fomenta é un futuro cheo de xente inculta coa súa fama frustrada."
+  },
+  {
+    "pair_id": 142,
+    "incorrect": "Neste caso e observando o que expón a autora situome no seu bando.",
+    "correct_standard": "Neste caso, e observando o que expón a autora, sitúome no seu bando."
+  },
+  {
+    "pair_id": 143,
+    "incorrect": "Tamén comezamos a xogar ó fútbol e a velo, comezamos a ter a consciencia de que esa xente que sae na tele dándolle patadas a un balón gaña o dobre ou incluso o triple ca os nosos pais.",
+    "correct_standard": "Tamén comezamos a xogar ó fútbol e a velo, comezamos a ter a consciencia de que esa xente que sae na tele dándolle patadas a un balón gaña o dobre ou incluso o triplo ca os nosos pais."
+  },
+  {
+    "pair_id": 144,
+    "incorrect": "Na miña opinión esto e unha auténtica locura.",
+    "correct_standard": "Na miña opinión, isto é unha auténtica loucura."
+  },
+  {
+    "pair_id": 145,
+    "incorrect": "A mocidade e a infancia soña con ser futbolista ou modelo xa que, baixo a miña opinión, eso é o que nos mostran dende que somos cativos.",
+    "correct_standard": "A mocidade e a infancia soña con ser futbolista ou modelo, xa que, baixo a miña opinión, iso é o que nos mostran dende que somos cativos."
+  },
+  {
+    "pair_id": 146,
+    "incorrect": "Penso que vale moito máis unha mente sana nun corpo sán que a beleza exterior.",
+    "correct_standard": "Penso que vale moito máis unha mente sa nun corpo san que a beleza exterior."
+  },
+  {
+    "pair_id": 147,
+    "incorrect": "Debido a esto, moitos dos xovenes creen que poden chegar a un nivel semellante pero a realidade e que moitos non poderan chegar ao nivel destes xogadores profesionais.",
+    "correct_standard": "Debido a isto, moitos dos mozos cren que poden chegar a un nivel semellante, pero a realidade é que moitos non poderán chegar ao nivel destes xogadores profesionais."
+  },
+  {
+    "pair_id": 148,
+    "incorrect": "Por iso, a comprensión e a paciencia son o máis importante.",
+    "correct_standard": "Por iso, a comprensión e a paciencia son o máis importante."
+  },
+  {
+    "pair_id": 149,
+    "incorrect": "A maioría deles non acabaran sendo nada diso.",
+    "correct_standard": "A maioría deles non acabarán sendo nada diso."
+  },
+  {
+    "pair_id": 150,
+    "incorrect": "Débese en boa parte ao consentimento dos pais e a mala educación que provoca isto nos fillos.",
+    "correct_standard": "Débese en boa parte ao consentimento dos pais e á mala educación que provoca isto nos fillos."
+  },
+  {
+    "pair_id": 151,
+    "incorrect": "Hoxe en día as novas xeracións, traen consigo unha mentalidade un pouco distorsionada do que é realmente o mundo, quizás sexa porque o mundo cambiou con respecto as máis vellas xeracións, xa que nestes momentos, estamos todos moi implicados nos mundos da moda ou do fútbol.",
+    "correct_standard": "Hoxe en día as novas xeracións, traen consigo unha idea un pouco distorsionada do que é realmente o mundo; quizás sexa porque o mundo cambiou con respecto ás máis vellas xeracións, xa que, nestes momentos, estamos todos moi implicados nos mundos da moda ou do fútbol."
+  },
+  {
+    "pair_id": 152,
+    "incorrect": "A roupa é a mesma pero de diferentes prezos según a marca ou o lugar.",
+    "correct_standard": "A roupa é a mesma, pero de diferentes prezos segundo a marca ou o lugar."
+  },
+  {
+    "pair_id": 153,
+    "incorrect": "Os nosos pais sempre queren que teñamos as mellores cousas, pero sempre tendo en conta o soldo que gaña cada un.",
+    "correct_standard": "Os nosos pais sempre queren que teñamos as mellores cousas, pero sempre tendo en conta o soldo que gaña cada un."
+  },
+  {
+    "pair_id": 154,
+    "incorrect": "da cultura e o esforzo diario.",
+    "correct_standard": "da cultura e o esforzo diario."
+  },
+  {
+    "pair_id": 155,
+    "incorrect": "Non sempre, pero si hai un tempo, a televisión está chea de pasarelas, concursos de beleza, etc... As rapazas ao ver a estás \"princesas\" andando non dubidan en intentar ser coma elas.",
+    "correct_standard": "Non sempre, pero si desde hai un tempo, a televisión está chea de pasarelas, concursos de beleza, etc.... As rapazas, ao ver a estas \"princesas\" andando, non dubidan en intentar ser coma elas,"
+  },
+  {
+    "pair_id": 156,
+    "incorrect": "As veces existen diferencias entre pais e fillos como estas.",
+    "correct_standard": "Ás veces existen diferenzas entre pais e fillos como estas."
+  },
+  {
+    "pair_id": 157,
+    "incorrect": "Este suceso, cada vez máis frecuente, é un reflexo perfecto da situación actual, e a toxicidade producida por, maioritariamente, os medios de comunicación.",
+    "correct_standard": "Este suceso, cada vez máis frecuente, é un reflexo perfecto da situación actual, e da toxicidade producida por, maioritariamente, os medios de comunicación."
+  },
+  {
+    "pair_id": 158,
+    "incorrect": "Cada vez danse máis os casos de conflictos familiares, un tema que non se lle soe dar moita importancia pero que afecta moito nestes ámbitos familiares.",
+    "correct_standard": "Cada vez danse máis os casos de conflitos familiares, un tema ao que non se lle adoita dar moita importancia, pero que afecta moito nestes ámbitos familiares."
+  },
+  {
+    "pair_id": 159,
+    "incorrect": "A sociedade non pode pensar nun traballo como o futbol e modelo porque con iso non se chega a ningún lado sé se quere que a economía e a sociedade do pais mellore.",
+    "correct_standard": "A sociedade non pode pensar nun traballos como o de fútbol e modelo porque con iso non se chega a ningún lado se se quere que a economía e a sociedade do país mellore."
+  },
+  {
+    "pair_id": 160,
+    "incorrect": "Dende as orixes da humanidade, o feito de comer é algo indiscutiblemente necesario para a nosa vivencia.",
+    "correct_standard": "Dende as orixes da humanidade, o feito de comer é algo indiscutiblemente necesario para a nosa supervivencia."
+  },
+  {
+    "pair_id": 161,
+    "incorrect": "Na nosa sociedade, tanto o consumismo como a produtividade teñen moita importancia, xa que todas as persoas son consumidoras cando mercan algo, e detrás deste consumismo atópanse numerosas industrias encargadas da produtividade.",
+    "correct_standard": "Na nosa sociedade, tanto o consumo como a produción teñen moita importancia, xa que todas as persoas son consumidoras cando mercan algo, e detrás deste consumo atópanse numerosas industrias encargadas da produción."
+  },
+  {
+    "pair_id": 162,
+    "incorrect": "Esta situación de crise afecta directamente ao consumismo, que nos últimos anos estase reducindo como consecuencia da necesidade de aforrar.",
+    "correct_standard": "Esta situación de crise afecta directamente ao consumo, que nos últimos anos se está reducindo como consecuencia da necesidade de aforrar."
+  },
+  {
+    "pair_id": 163,
+    "incorrect": "En canto a produtividade, o descenso do consumismo tamén está provocando un leve descenso desta, observable no aumento do paro, o que tamén provoca que as familias aforren o máximo diñeiro posible por se algún dos membros queda sen traballo.",
+    "correct_standard": "En canto á produción, o descenso do consumo tamén está provocando un leve descenso desta, observable no aumento do paro, o que tamén provoca que as familias aforren o máximo diñeiro posible por se algún dos membros queda sen traballo."
+  },
+  {
+    "pair_id": 164,
+    "incorrect": "Isto provoca o chamado \"círculo vicioso\", no que o consumismo e a produtividade cada vez descenden máis e nos aforramos todo o posible, o que provoca que o consumismo e a produtividade descendan, un círculo do que, hoxe en día, parece difícil saír del",
+    "correct_standard": "Isto provoca o chamado \"círculo vicioso\", no que o consumo e a produción cada vez descenden máis e nós aforramos todo o posible, o que provoca que o consumo e a produción descendan; un círculo do que, hoxe en día, parece difícil saír del."
+  },
+  {
+    "pair_id": 165,
+    "incorrect": "O mundo funciona coa producción e a consumición, tanto aplicado as persoas como os animais.",
+    "correct_standard": "O mundo funciona coa produción e o consumo, tanto aplicado ás persoas como ós animais."
+  },
+  {
+    "pair_id": 166,
+    "incorrect": "Actualmente, a situación da crise económica, causou moitos estragos na producción e no consumismo.",
+    "correct_standard": "Actualmente, a situación da crise económica, causou moitos estragos na produción e no consumo."
+  },
+  {
+    "pair_id": 167,
+    "incorrect": "A diminución salarial, o aumento de paro,... fai que as persoas teñan menos diñeiro, chegando a situacións de pobreza, que dificulta o consumismo provocando falta de colleitas e diminución da produción agrícola; se a iso sumámoslle o cambio climático a situación pode chegar a ser catastrófica nun futuro.",
+    "correct_standard": "A diminución salarial, o aumento de paro,... fan que as persoas teñan menos diñeiro, chegando a situacións de pobreza, que dificultan o consumo, provocando falta de colleitas e diminución da produción agrícola; se a iso lle sumamos o cambio climático, a situación pode chegar a ser catastrófica nun futuro."
+  },
+  {
+    "pair_id": 168,
+    "incorrect": "É moi difícil atopar un caso de supervivencia sen el, sobre todo, se falamos dos países occidentais e máis desenvoltos nos que é imposible atopalos.",
+    "correct_standard": "É moi difícil atopar un caso de supervivencia sen el, sobre todo, se falamos dos países occidentais e máis desenvolvidos, nos que é imposible atopalos."
+  },
+  {
+    "pair_id": 169,
+    "incorrect": "Nos medios de comunicación son continuos os anuncios e as mensaxes que nos conlevan a consumir e a converternos plenamente nunha sociedade capitalista.",
+    "correct_standard": "Nos medios de comunicación son continuos os anuncios e as mensaxes que nos implican a consumir e a converternos plenamente nunha sociedade capitalista."
+  },
+  {
+    "pair_id": 170,
+    "incorrect": "O coñecemento, o esforzo, a cultura e o traballo duro; e non deixarnos ir polo camino que impartese só pola fama e riqueza.",
+    "correct_standard": "o coñecemento, o esforzo, a cultura e o traballo duro; e non deixarnos ir polo camiño que se imparte só pola fama e a riqueza."
+  },
+  {
+    "pair_id": 171,
+    "incorrect": "Na miña opinión, ambas partes na maioría dos casos teñen a súa parte de razón, tanto pais como fillos.",
+    "correct_standard": "Na miña opinión, ambas as partes na maioría dos casos teñen a súa parte de razón, tanto pais como fillos."
+  },
+  {
+    "pair_id": 172,
+    "incorrect": "O propósito que ten o autor con este texto e mostrarnos os problemas familiares, entre pais e os seus fillos, cando son adolescentes.",
+    "correct_standard": "O propósito que ten o autor con este texto é mostrarnos os problemas familiares, entre os pais e os seus fillos, cando son adolescentes."
+  },
+  {
+    "pair_id": 173,
+    "incorrect": "Cando lle preguntas a un neno que quere ser de maior a maioría responde con futbolista.",
+    "correct_standard": "Cando lle preguntas a un neno que quere ser de maior, a maioría responde con futbolista."
+  },
+  {
+    "pair_id": 174,
+    "incorrect": "Mentres tanto os medicos, os cales traballaron duramente para chegar a onde estan (moitos máis que calquer futbolista) cuns estudios avanzados, non ganan nin a mitade que algúns destes deportistas e son moito máis irrecoñecidos (existindo futbolistas que non teñen nin a ESO).",
+    "correct_standard": "Mentres tanto, os médicos, os cales traballaron duramente para chegar a onde están (moito máis que calquera futbolista), cuns estudos avanzados, non ganan nin a metade que algúns destes deportistas e son moito máis descoñecidos (existindo futbolistas que non teñen nin a ESO)."
+  },
+  {
+    "pair_id": 175,
+    "incorrect": "O mesmo pasa cos rapaces ao ver ao seu correspondente equipo xogar pola televisión.",
+    "correct_standard": "O mesmo pasa cos rapaces ao ver o seu correspondente equipo xogar pola televisión."
+  },
+  {
+    "pair_id": 176,
+    "incorrect": "É moi triste a forma actual de educar aos adolescentes en liñas xerais, pois penso que as recompensas deberían ir precedidas dalgún esforzo, como ocurre normalmente.",
+    "correct_standard": "É moi triste a forma actual de educar os adolescentes en liñas xerais, pois penso que as recompensas deberían ir precedidas dalgún esforzo, como ocorre normalmente."
+  },
+  {
+    "pair_id": 177,
+    "incorrect": "A televisión xa véndenos a parte boa da situación como, por exemplo, un fichaje de fútbol por millóns de euros ou un desfile dun modelo no que gaña moito diñeiro.",
+    "correct_standard": "A televisión xa nos vende a parte boa da situación como, por exemplo, unha fichaxe de fútbol por millóns de euros ou un desfile dun modelo no que gaña moito diñeiro."
+  },
+  {
+    "pair_id": 178,
+    "incorrect": "Esta situación que estase a dar no texto seguramente pasoulle a calquer nai o pai que vivan xuntos xa que moitas veces por exemplo teño preguntado a miña nai se podía comprar algo é como me dicía que non ía onde estivera meu pai a a preguntarllo a él.",
+    "correct_standard": "Esta situación que se está a dar no texto seguramente pasoulle a calquera nai ou pai que vivan xuntos, xa que moitas veces, por exemplo, teño preguntado a miña nai se podía comprar algo e, como me dicía que non, ía onde estivera meu pai a a preguntarllo a el."
+  },
+  {
+    "pair_id": 179,
+    "incorrect": "Moitos deportistas, ademais, recoñecen que case non teñen estudos e chegaron ahí unicamente porque a alguén gustoulle como xogaba a ese deporte.",
+    "correct_standard": "Moitos deportistas, ademais, recoñecen que case non teñen estudos e chegaron aí unicamente porque a alguén lle gustou como xogaban a ese deporte."
+  },
+  {
+    "pair_id": 180,
+    "incorrect": "Respecto aos conflitos familiares, dou por sentado que este conflito trátase de que a nai de Vanesa non lle deu diñeiro para comprar roupa ou que non lle deixou ir a comprala; polo que chamou ao pai.",
+    "correct_standard": "Respecto aos conflitos familiares, dou por sentado que este conflito se trata de que a nai de Vanesa non lle deu diñeiro para comprar roupa ou que non lle deixou ir a comprala, polo que chamou ao pai."
+  },
+  {
+    "pair_id": 181,
+    "incorrect": "Por outra banda, a autora expón que na actualidade podese atopar xente galega destacando en diferentes campos culturais.",
+    "correct_standard": "Por outra banda, a autora expón que na actualidade se pode atopar xente galega destacando en diferentes campos culturais,"
+  },
+  {
+    "pair_id": 182,
+    "incorrect": "A autora neste texto pretende mostrar que hoxe en día sábese moito das celebridades e dos famosos, sobre todo se o seu comportamento non é o máis axeitado pero descoñécese moitas cousas que teñen que ver coa cultura, son cousas que parece que a ninguén lle interesan.",
+    "correct_standard": "A autora neste texto pretende mostrar que hoxe en día se sabe moito das celebridades e dos famosos, sobre todo se o seu comportamento non é o máis axeitado, pero descoñécese moitas cousas que teñen que ver coa cultura; son cousas que parece que a ninguén lle interesan."
+  },
+  {
+    "pair_id": 183,
+    "incorrect": "Outro punto a resaltar sería que os pais no deberían deixar que a rapaza fixese o que ela queira, xa que ese tipo de problemas familiares danse ao deixar aos fillos facer o que queiran sen impoñer ningún límite.",
+    "correct_standard": "Outro punto a resaltar sería que os pais non deberían deixar que a rapaza fixese o que ela queira, xa que ese tipo de problemas familiares se dan ao deixar aos fillos facer o que queiran sen impoñer ningún límite."
+  },
+  {
+    "pair_id": 184,
+    "incorrect": "Eu tamén teño problemas, debido a que faltame conversas con eles, ademais de estar todo o día co móbil xogando a videoxogos, ainda que poderían ser xogos interactivos.",
+    "correct_standard": "Eu tamén teño problemas, debido a que me faltan conversas con eles, ademais de estar todo o día co móbil xogando a videoxogos, aínda que poderían ser xogos interactivos."
+  },
+  {
+    "pair_id": 185,
+    "incorrect": "Xa que a outra persoa poderíalle sentar mal.",
+    "correct_standard": "xa que á outra persoa lle poderían sentar mal."
+  },
+  {
+    "pair_id": 186,
+    "incorrect": "Por sorte, esta etapa \"do pavo\", non dura moito más lonxe que os 18 anos, cando dámonos conta de que os nosos pais só queren o mellor para nós, e volvemos a sentirnos comprendidos.",
+    "correct_standard": "Por sorte, esta etapa \"do pavo\", non dura moito máis alá que dos 18 anos, cando nos damos conta de que os nosos pais só queren o mellor para nós, e volvemos a sentirnos comprendidos."
+  },
+  {
+    "pair_id": 187,
+    "incorrect": "Cren que teñen máis poder sobre os demáis membros e que son eles os que mandan, por iso orixínanse este tipo de disputas.",
+    "correct_standard": "Cren que teñen máis poder sobre os demais membros e que son eles os que mandan; por iso se orixinan este tipo de disputas."
+  },
+  {
+    "pair_id": 188,
+    "incorrect": "Deste xeito, é unha locura dicir que aqueles que están na súa infancia so queren ser futbolistas ou modelos xa que basta con preguntarlle a cinco nenos que queren ser de maiores para que un digache astronauta, outro bombeiro, outros dous digan superheroe e o quinto pense en ser actriz ou actor.",
+    "correct_standard": "Deste xeito, é unha loucura dicir que aqueles que están na súa infancia só queren ser futbolistas ou modelos, xa que basta con preguntarlles a cinco nenos que queren ser de maiores para que un che diga astronauta, outro bombeiro, outros dous digan superheroe e o quinto pense en ser actriz ou actor."
+  },
+  {
+    "pair_id": 189,
+    "incorrect": "Principalmente cando dí que os xóvenes non pensamos mais cá no diñeiro fácil, na comodidade ou en ser futbolistas e modelos.",
+    "correct_standard": "principalmente cando di que os mozos non pensamos máis ca no diñeiro fácil, na comodidade ou en ser futbolistas e modelos."
+  },
+  {
+    "pair_id": 190,
+    "incorrect": "Ademáis disto estas figuras públicas defenden moitas veces modelos de comportamento sexista e sen conciencia.",
+    "correct_standard": "Ademais disto, estas figuras públicas defenden moitas veces modelos de comportamento sexista e sen conciencia."
+  },
+  {
+    "pair_id": 191,
+    "incorrect": "Pensan que eles o saben todo e que os seus pais só os queren molestar e que nunca, baixo ningún concepto éstes teñen a razón.",
+    "correct_standard": "Pensan que eles o saben todo e que os seus pais só os queren molestar e que nunca, baixo ningún concepto, estes teñen a razón."
+  },
+  {
+    "pair_id": 192,
+    "incorrect": "Obsesionarse con ter o mellor físico ou con ser o que marca máis goles para resaltar sí é perxudicial.",
+    "correct_standard": "Obsesionarse con ter o mellor físico ou con ser o que marca máis goles para resaltar si é prexudicial."
+  },
+  {
+    "pair_id": 193,
+    "incorrect": "En conclusión, é tarefa e responsabilidade de todos revertir esta situación, educando ós nosos fillos con sensibilidade e en igualdade, apoiando ademáis iniciativas que acerquen a educación a todas as clases sociais e non a convirtan nun luxo ao alcance de poucos.",
+    "correct_standard": "En conclusión, é tarefa e responsabilidade de todos reverter esta situación, educando ós nosos fillos con sensibilidade e en igualdade, apoiando ademais iniciativas que acerquen a educación a todas as clases sociais e non a convertan nun luxo ao alcance de poucos."
+  },
+  {
+    "pair_id": 194,
+    "incorrect": "A todo o mundo lle gusta o deporte e ter un bó físico pero é complicado chegar a xogar ao futbol profesionalmente, ainda que a quén non lle gustaría gañar mais diñeiro so facendo deporte e xogar con outros grandes xogadores de futbol.",
+    "correct_standard": "A todo o mundo lle gusta o deporte e ter un bo físico, pero é complicado chegar a xogar ao fútbol profesionalmente, aínda que, a quen non lle gustaría gañar máis diñeiro só facendo deporte e xogar con outros grandes xogadores de fútbol?"
+  },
+  {
+    "pair_id": 195,
+    "incorrect": "Sí, digo fogares porque aunque únicamente viva alí un adolescente, afecta a toda a familia.",
+    "correct_standard": "Si, digo fogares porque, aínda que unicamente viva alí un adolescente, afecta a toda a familia."
+  },
+  {
+    "pair_id": 196,
+    "incorrect": "Os adolescentes, tanto mozos como mozas, están nunha etapa de transición de rapaces a mulleres e homes, polo que ás veces non se entenden nin sequera a sí mesmos.",
+    "correct_standard": "Os adolescentes, tanto mozos como mozas, están nunha etapa de transición de rapaces a mulleres e homes, polo que ás veces non se entenden nin sequera a si mesmos."
+  },
+  {
+    "pair_id": 197,
+    "incorrect": "Tendo en conta o sistema de producción e de saída ao mundo laboral, as persoas teñen que saber aforrar os seus cartos para a súa hipotética jubilación.",
+    "correct_standard": "Tendo en conta o sistema de produción e de saída ao mundo laboral, as persoas teñen que saber aforrar os seus cartos para a súa hipotética xubilación."
+  },
+  {
+    "pair_id": 198,
+    "incorrect": "Por exemplo, no caso dos animais, temos os organismos productores (prantas e algas) que proporcionan oxíxeno e alimento para que os consumidores primarios se beneficien e así sucesivamente.",
+    "correct_standard": "Por exemplo, no caso dos animais, temos os organismos produtores (plantas e algas) que proporcionan oxíxeno e alimento para que os consumidores primarios se beneficien e así sucesivamente."
+  },
+  {
+    "pair_id": 199,
+    "incorrect": "Estamos bombardeados continuamente de publicidad que si por unha parte informan dos novos servizos, empresas e productos por outra crean necesidades, en moitos casos absurdas.",
+    "correct_standard": "Estamos bombardeados continuamente por publicidade que, se por unha parte informa dos novos servizos, empresas e produtos, por outra crea necesidades, en moitos casos absurdas."
+  },
+  {
+    "pair_id": 200,
+    "incorrect": "Esta nova no mercado crea grandes cambios no mundo da producción.",
+    "correct_standard": "Esta nova no mercado crea grandes cambios no mundo da produción."
+  },
+  {
+    "pair_id": 201,
+    "incorrect": "Tódalas persoas somos consumistas xa que dende que nacemos estamos continuamente comprando artículos xa sexan dedicados á nosa alimentación, ao noso vestiario, ao noso pracer e ocio etc. Pero poucas veces pensamos que para consumir eses productos que nos tanto queremos ten que haber alguén que previamente os producise.",
+    "correct_standard": "Tódalas persoas somos consumistas, xa que dende que nacemos estamos continuamente comprando artigos, xa sexan dedicados á nosa alimentación, ao noso vestiario, ao noso pracer e ocio etc. Pero poucas veces pensamos que para consumir eses produtos que nós tanto queremos ten que haber alguén que previamente os producise."
+  },
+  {
+    "pair_id": 202,
+    "incorrect": "O consumo na actualidade está moi fixado polo precio dos productos e a competencia entre as diversas marcas que ofertan un servizo ou material do mesmo tipo.",
+    "correct_standard": "O consumo na actualidade está moi fixado polo prezo dos produtos e a competencia entre as diversas marcas que ofertan un servizo ou material do mesmo tipo."
+  },
+  {
+    "pair_id": 203,
+    "incorrect": "Os prezos tamén están moi relacionados coa produción xa que dependendo das materias primas, da maquinaria, da man de obra etc. utilizada na elaboración do instrumento; ese producto tera un determinado prezo.",
+    "correct_standard": "Os prezos tamén están moi relacionados coa produción, xa que dependendo das materias primas, da maquinaria, da man de obra etc. utilizadas na elaboración do produto, este producto terá un determinado prezo."
+  },
+  {
+    "pair_id": 204,
+    "incorrect": "Polo tanto, deberiamos pensalo moito antes de seguir gastando tantos cartos nelas, o consumismo non é beneficioso, moitas veces é mellor mercar un producto máis caro só polo feito de ter a certeza de que a súa fabricación é lícita.",
+    "correct_standard": "Polo tanto, deberiamos pensalo moito antes de seguir gastando tantos cartos nelas. O consumismo non é beneficioso, moitas veces é mellor mercar un produto máis caro só polo feito de ter a certeza de que a súa fabricación é lícita."
+  },
+  {
+    "pair_id": 205,
+    "incorrect": "A sua vez no noso día a día derrochamos moitísimos cartos en productos inservibles.",
+    "correct_standard": "Á súa vez, no noso día a día malgastamos moitísimos cartos en produtos inservibles."
+  },
+  {
+    "pair_id": 206,
+    "incorrect": "Móstrannos o producto a vender como algo que mellorará enormemente a nosa calidade de vida, e conseguen que nós creamos isto, aínda que en verdade saibamos que nos están a enganar, e nós facemoslles caso e axiña imos a adquirir o que nos ofrecen.",
+    "correct_standard": "Móstrannos o produto a vender como algo que mellorará enormemente a nosa calidade de vida, e conseguen que nós creamos isto, aínda que en verdade saibamos que nos están a enganar, e nós facémoslles caso e axiña imos a adquirir o que nos ofrecen."
+  },
+  {
+    "pair_id": 207,
+    "incorrect": "Pero para pagar por elas, deberase convertir tamén en productor, e en ocasións usará o método de anunciar e enganar a xente, o mesmo que usaron con el, para enriquecerse cada vez máis e consumir en maior cantidade, entrando así no ciclo do consumismo.",
+    "correct_standard": "Pero para pagar por elas, deberase converter tamén en produtor, e en ocasións usará o método de anunciar e enganar a xente, o mesmo que usaron con el, para enriquecerse cada vez máis e consumir en maior cantidade, entrando así no ciclo do consumismo."
+  },
+  {
+    "pair_id": 208,
+    "incorrect": "Na actualidade producense moitos conflictos entre pais e fillos.",
+    "correct_standard": "Na actualidade prodúcense moitos conflitos entre pais e fillos."
+  },
+  {
+    "pair_id": 209,
+    "incorrect": "Na miña opinión, o conflicto que reflicte o texto é moi común entre adolescentes e os seus pais.",
+    "correct_standard": "Na miña opinión, o conflito que reflicte o texto é moi común entre adolescentes e os seus pais."
+  },
+  {
+    "pair_id": 210,
+    "incorrect": "Por iso é un dos motivos polos que os pais na súa casa teñen conflictos.",
+    "correct_standard": "Por iso é un dos motivos polos que os pais na súa casa teñen conflitos."
+  },
+  {
+    "pair_id": 211,
+    "incorrect": "Este tipo de conflictos familiares son habituais.",
+    "correct_standard": "Este tipo de conflitos familiares son habituais."
+  },
+  {
+    "pair_id": 212,
+    "incorrect": "A mala comunicación, a agresividade, a falta de comunicación son algúns dos problemas que poden facer que unha familia teña conflictos.",
+    "correct_standard": "A mala comunicación, a agresividade, a falta de comunicación son algúns dos problemas que poden facer que unha familia teña conflitos."
+  },
+  {
+    "pair_id": 213,
+    "incorrect": "Así, no mundo actual, terriblemente influenciado polos medios de comunicación e as redes sociais, os nosos modelos de conducta na mocidade proporciónansenos \"en serie\": seguindo un canon que, ademais perpetúa na gran maioría dos casos os tóxicos roles de xénero tradicionais.",
+    "correct_standard": "Así, no mundo actual, terriblemente influenciado polos medios de comunicación e as redes sociais, os nosos modelos de conduta na mocidade proporciónansenos \"en serie\": seguindo un canon que, ademais, perpetúa na gran maioría dos casos os tóxicos roles de xénero tradicionais."
+  },
+  {
+    "pair_id": 214,
+    "incorrect": "Na miña opinión, o conflicto do texto é normal e ese tipo de discusións deixan de ocorrer co paso do tempo.",
+    "correct_standard": "Na miña opinión, o conflito do texto é normal e ese tipo de discusións deixan de ocorrer co paso do tempo."
+  },
+  {
+    "pair_id": 215,
+    "incorrect": "Nun mundo e nunha sociedade onde a información están ao alcance da maioría das persoas, vivimos practicamente desinformados.",
+    "correct_standard": "Nun mundo e nunha sociedade onde a información está ao alcance da maioría das persoas, vivimos practicamente desinformados."
+  },
+  {
+    "pair_id": 216,
+    "incorrect": "Hai casos extremos nos que se chega a violencia física, e son neste tipo de casos nos que hai que actuar con rapidez e non deixalo pasar.",
+    "correct_standard": "Hai casos extremos nos que se chega á violencia física, e son neste tipo de casos nos que hai que actuar con rapidez e non deixalos pasar."
+  },
+  {
+    "pair_id": 217,
+    "incorrect": "Non hai que fixase neses traballos que en moitos casos non se pode realizar por algunha causa ou condición física.",
+    "correct_standard": "Non hai que fixase neses traballos que en moitos casos non se poden realizar por algunha causa ou condición física."
+  },
+  {
+    "pair_id": 218,
+    "incorrect": "A educación que se lle da aos adolescentes ás veces non e a adecuada pero non é ese o único factor que afecta ao comportamento dun adolescente, as compañías coas que anda e a súa personalidade tamén.",
+    "correct_standard": "A educación que se lles dá aos adolescentes ás veces non é a adecuada, pero non é ese o único factor que afecta ao comportamento dun adolescente; as compañías coas que anda e a súa personalidade tamén."
+  },
+  {
+    "pair_id": 219,
+    "incorrect": "Os conflitos entre pais e fillos adolescentes é algo moi frecuente na sociedade actual.",
+    "correct_standard": "Os conflitos entre pais e fillos adolescentes son algo moi frecuente na sociedade actual."
+  },
+  {
+    "pair_id": 220,
+    "incorrect": "Hoxe en día, penso que os problemas entre pais e fillos é moito maior que anos atrás, xa que a día de hoxe, maduran antes os adolescentes, teñen afán de liberdade, de ser independentes e de que os pais os deixen en paz.",
+    "correct_standard": "Hoxe en día, penso que os problemas entre pais e fillos son moito maiores que anos atrás, xa que, a día de hoxe, maduran antes os adolescentes, teñen afán de liberdade, de ser independentes e de que os pais os deixen en paz."
+  },
+  {
+    "pair_id": 221,
+    "incorrect": "Fixamos a nosa atención, e construímos a nosa vida en base a superficialidades.",
+    "correct_standard": "Fixamos a nosa atención, e construímos a nosa vida en base a superficialidades."
+  },
+  {
+    "pair_id": 222,
+    "incorrect": "É dicir, son problemas que derivan da educación que reciba a persoa, pero tamén, son habituais en case tódalas casas.",
+    "correct_standard": "É dicir, son problemas que derivan da educación que reciba a persoa, pero tamén, son habituais en case tódalas casas."
+  },
+  {
+    "pair_id": 223,
+    "incorrect": "Está claro que hoxe por hoxe queda moito mellor dicir que queres ser xogador dun equipo de primeira que por exemplo médico, cirurxian, ou escritor.",
+    "correct_standard": "está claro que hoxe por hoxe queda moito mellor dicir que queres ser xogador dun equipo de primeira que, por exemplo, médico, cirurxián, ou escritor."
+  },
+  {
+    "pair_id": 224,
+    "incorrect": ".",
+    "correct_standard": "\"."
+  },
+  {
+    "pair_id": 225,
+    "incorrect": ".",
+    "correct_standard": "\".."
+  },
+  {
+    "pair_id": 226,
+    "incorrect": "Neste caso que se mostra no texto, pola miña parte, entendo que Mariano, o pai, se enfadara cando a súa filla o chamou estando el traballando, pero por outro lado, tamén me poño no corpo da rapaza, e non creo que escoitar esas palabras de seu pai, fose moi agradable.",
+    "correct_standard": "Neste caso que se mostra no texto, pola miña parte, entendo que Mariano, o pai, se enfadara cando a súa filla o chamou estando el traballando, pero, por outro lado, tamén me poño no corpo da rapaza, e non creo que escoitar esas palabras de seu pai, fose moi agradable."
+  },
+  {
+    "pair_id": 227,
+    "incorrect": "Na miña opinión, os pais deixan que os fillos fagan o que queiran desde moi pequenos, acostumanos moi mal dándolles todo o que lles piden e non saben dicir \"NON\".",
+    "correct_standard": "Na miña opinión, os pais deixan que os fillos fagan o que queiran desde moi pequenos; acostúmanos moi mal dándolles todo o que lles piden e non saben dicir \"NON\"."
+  },
+  {
+    "pair_id": 228,
+    "incorrect": "Pero por outra banda, creo que nosos pais deberían entendernos, eles moi posiblemente pasaron por algo similar, aínda que fosen outros tempos.",
+    "correct_standard": "Pero, por outra banda, creo que nosos pais deberían entendernos: eles moi posiblemente pasaron por algo similar, aínda que fosen outros tempos."
+  },
+  {
+    "pair_id": 229,
+    "incorrect": "No 60 % destas discusions a culpa é dos fillos, ben por pedir algo fora do seu alcance ou ben pola súa tozudez.",
+    "correct_standard": "No 60 % destas discusións a culpa é dos fillos, ben por pedir algo fóra do seu alcance ou ben pola súa teimosía,"
+  },
+  {
+    "pair_id": 230,
+    "incorrect": "Centrémonos primeiro, a adolescencia é unha idade moi complicada, porque os nenos que eran empezan a crecer e a ter as súas propias ideas.",
+    "correct_standard": "Centrémonos primeiro: a adolescencia é unha idade moi complicada, porque os nenos que eran empezan a crecer e a ter as súas propias ideas."
+  },
+  {
+    "pair_id": 231,
+    "incorrect": "Aínda que nos tempos antigos non houbera nada diso, pola maneira de educar que tiñan.",
+    "correct_standard": "Aínda que nos tempos antigos non houbera nada diso, pola maneira de educar que tiñan,"
+  },
+  {
+    "pair_id": 232,
+    "incorrect": "Na miña opinión todo vai no xeito de como ver a vida, o que pretendemos todos é ser felices e disfrutar da vida.",
+    "correct_standard": "Na miña opinión, todo vai no xeito de como ver a vida; o que pretendemos todos é ser felices e gozar da vida."
+  },
+  {
+    "pair_id": 233,
+    "incorrect": "Todos eses rapaces, chegado o momento tamén se darán conta, ademais cada ano temos mais persoas con estudos superiores, polo que non creo que teñamos tal ermo cultural.",
+    "correct_standard": "Todos eses rapaces, chegado o momento, tamén se darán conta. Ademais, cada ano temos máis persoas con estudos superiores, polo que non creo que teñamos tal ermo cultural."
+  },
+  {
+    "pair_id": 234,
+    "incorrect": "Eu entendo que os fillos queren sempre ter as mellores cousas, pero na miña opinión teñen razón os pais, estamos demasiado mimados e aínda encima se estamos nun país con crise, non podemos ter de todo.",
+    "correct_standard": "Eu entendo que os fillos queren sempre ter as mellores cousas, pero, na miña opinión, teñen razón os pais: estamos demasiado consentidos e aínda encima, se estamos nun país con crise, non podemos ter de todo."
+  },
+  {
+    "pair_id": 235,
+    "incorrect": "Quen non coñece a Pitagoras, Platon, Aristoteles.",
+    "correct_standard": "Quen non coñece a Pitágoras, Platón, Aristóteles?"
+  },
+  {
+    "pair_id": 236,
+    "incorrect": "Agora o que eu penso é o seguinte.",
+    "correct_standard": "Agora o que eu penso é o seguinte:"
+  },
+  {
+    "pair_id": 237,
+    "incorrect": "En conclusión.",
+    "correct_standard": "En conclusión,"
+  },
+  {
+    "pair_id": 238,
+    "incorrect": "Un neno sempre quererá ser aquilo que lle guste e lle proporcione o que ve que teñen os que traballan dese mesmo soño.",
+    "correct_standard": "Un neno sempre quererá ser aquilo que lle guste e lle proporcione o que ve que teñen os que traballan dese mesmo soño,"
+  },
+  {
+    "pair_id": 239,
+    "incorrect": "A sociedade necesita un cambio nos valores que hai que ensinar aos nenos, e que nós debemos impartir.",
+    "correct_standard": "A sociedade necesita un cambio nos valores que hai que ensinar aos nenos, e que nós debemos impartir,"
+  },
+  {
+    "pair_id": 240,
+    "incorrect": "Por exemplo, no mundo do deporte, tan só se lle da importancia ó sector do fútbol, outros moitos logros como o de Mireia Belmonte no ámbito da natación non teñen o mesmo valor.",
+    "correct_standard": "Por exemplo, no mundo do deporte, tan só se lle dá importancia ó sector do fútbol; outros moitos logros como o de Mireia Belmonte no ámbito da natación non teñen o mesmo valor."
+  },
+  {
+    "pair_id": 241,
+    "incorrect": "A sociedade sempre estivo influenciada polas modas de cada tempo, agora tocan as modelos e os futbolistas.",
+    "correct_standard": "A sociedade sempre estivo influenciada polas modas de cada tempo; agora tocan as modelos e os futbolistas."
+  },
+  {
+    "pair_id": 242,
+    "incorrect": "Paralelamente, as modelos e os futbolistas unicamente dan unha imaxe errónea do que é a vida, mostran vidas de luxo, casas espectaculares e viaxes a lugares que namoran.",
+    "correct_standard": "Paralelamente, as modelos e os futbolistas unicamente dan unha imaxe errónea do que é a vida: mostran vidas de luxo, casas espectaculares e viaxes a lugares que namoran."
+  },
+  {
+    "pair_id": 243,
+    "incorrect": "Na actualidade, o tema da roupa é cada vez un conflito maior entre os pais e os seus fillos.",
+    "correct_standard": "Na actualidade, o tema da roupa supón cada vez un conflito maior entre os pais e os seus fillos."
+  },
+  {
+    "pair_id": 244,
+    "incorrect": "Pero non só é o tema da roupa un conflito entre os pais e os seus fillos adolescentes.",
+    "correct_standard": "Pero non só supón o tema da roupa un conflito entre os pais e os seus fillos adolescentes."
+  },
+  {
+    "pair_id": 245,
+    "incorrect": "Nos pobos e cidades hai equipos de fútbol para nenos xa dende os 3 anos.",
+    "correct_standard": "Nos vilas e cidades hai equipos de fútbol para nenos xa dende os 3 anos."
+  },
+  {
+    "pair_id": 246,
+    "incorrect": "Ditos comportamentos comezan cada vez a máis temprana idade.",
+    "correct_standard": "Tales comportamentos comezan cada vez a máis temperá idade."
+  },
+  {
+    "pair_id": 247,
+    "incorrect": "A adolescencia é unha etapa da vida que dura máis ou menos dende os 14 ata os 18 anos, aunque na maioría tarde hasta os vinte e pico.",
+    "correct_standard": "A adolescencia é unha etapa da vida que dura máis ou menos dende os 14 ata os 18 anos, aínda que na maioría dure ata os vinte e pico."
+  },
+  {
+    "pair_id": 248,
+    "incorrect": "Con todo isto a cultura queda sobrevalorada ata o xeito de desprezo.",
+    "correct_standard": "Con todo isto a cultura queda infravalorada ata o punto do desprezala."
+  },
+  {
+    "pair_id": 249,
+    "incorrect": "Por iso moitos nenos as veces fan signo de rebeldía para chamar a atención dos pais.",
+    "correct_standard": "Por iso moitos nenos ás veces mostran signos de rebeldía para chamar a atención dos pais."
+  },
+  {
+    "pair_id": 250,
+    "incorrect": "Persoalmente teño opinións atopadas e poa contra estou en desacordo con ela.",
+    "correct_standard": "Persoalmente, teño opinións encontradas e en calquera caso estou en desacordo con ela."
+  },
+  {
+    "pair_id": 251,
+    "incorrect": "Por moitas gañas que teñas de ser futbolista, antes están os teus estudos e a túa formación cultural e intelectual, xa que non todos nacen con ese mati ou con esa habilidade.",
+    "correct_standard": "Por moitas ganas que teñas de ser futbolista, antes están os teus estudos e a túa formación cultural e intelectual, xa que non todos nacen con ese don ou con esa habilidade."
+  },
+  {
+    "pair_id": 252,
+    "incorrect": "Isto crea que moitos rapaces abandonen os estudos coa ilusión de ser coma eses ídolos que pouco máis saben que ler ou escribir.",
+    "correct_standard": "Isto fai que moitos rapaces abandonen os estudos coa ilusión de ser coma eses ídolos que pouco máis saben que ler ou escribir."
+  },
+  {
+    "pair_id": 253,
+    "incorrect": "Non marco especial interese polo exemplo do galego pero si entendo a súa idea principal.",
+    "correct_standard": "Non teño especial interese polo exemplo do galego, pero si entendo a súa idea principal."
+  },
+  {
+    "pair_id": 254,
+    "incorrect": "Rexeita que os medios de comunicación e información non se centren en informar sobre a cultura galega e os feitos que acontecen actualmente o redor desta.",
+    "correct_standard": "Critica que os medios de comunicación e información non se centren en informar sobre a cultura galega e os feitos que acontecen actualmente ó redor desta."
+  },
+  {
+    "pair_id": 255,
+    "incorrect": "Todo isto non é así xa que para ser unha supermodelo non só fai falta ter unha cara e un corpo bonito xa que se necesita ter un enorme esforzo físico e unha sacrificación constante para manter a imaxe que unha certa compañía ou axencia de modelos esixe.",
+    "correct_standard": "Todo isto non é así, xa que para ser unha supermodelo non só fai falta ter unha cara e un corpo bonito, xa que se necesita facer un enorme esforzo físico e un sacrificio constante para manter a imaxe que unha certa compañía ou axencia de modelos esixe."
+  },
+  {
+    "pair_id": 256,
+    "incorrect": "A xente esfórzase e sacrifícase para cumprir o seu sono, e máis nos tempos que corren.",
+    "correct_standard": "A xente esfórzase e sacrifícase para cumprir o seu soño, e máis nos tempos que corren."
+  },
+  {
+    "pair_id": 257,
+    "incorrect": "Onde se aprecia unha conversación entre un pai e unha filla.",
+    "correct_standard": "onde se pode ler unha conversación entre un pai e unha filla."
+  },
+  {
+    "pair_id": 258,
+    "incorrect": "Xa que hoxe en día son moi presentes na rutina dos adultos que teñen fillos.",
+    "correct_standard": "xa que hoxe en día están moi presentes na rutina dos adultos que teñen fillos."
+  },
+  {
+    "pair_id": 259,
+    "incorrect": "O apoio das familias é crucial para desenrolar esta etapa.",
+    "correct_standard": "O apoio das familias é crucial para desenvolver esta etapa."
+  },
+  {
+    "pair_id": 260,
+    "incorrect": "Cos motivos dados teño que dicir que estou de acordo coa autora e que temos que reflexionar sobre o tema para así poder tomar mellores decisións e cambiar a nosa forma de ver as cousas (se nos fai falta).",
+    "correct_standard": "Polos motivos dados, teño que dicir que estou de acordo coa autora e que temos que reflexionar sobre o tema para así poder tomar mellores decisións e cambiar a nosa forma de ver as cousas (se nos fai falta)."
+  },
+  {
+    "pair_id": 261,
+    "incorrect": "Podemos apreciar isto en lugares tan comúns e visualizados como poden ser as noticias diarias emitidas en calquera canle de televisión.",
+    "correct_standard": "Podemos apreciar isto en programas tan comúns e visualizados como poden ser as noticias diarias emitidas en calquera canle de televisión."
+  },
+  {
+    "pair_id": 262,
+    "incorrect": "Isto dase deste xeito por unha razón moi simple.",
+    "correct_standard": "Isto dáse deste xeito por unha razón moi simple."
+  },
+  {
+    "pair_id": 263,
+    "incorrect": "En conclusión, na actualidade existen diferentes tipos de xóvenes e polo tanto diferentes tipos de evocacións.",
+    "correct_standard": "En conclusión, na actualidade existen diferentes tipos de mozos e polo tanto diferentes tipos de vocacións."
+  },
+  {
+    "pair_id": 264,
+    "incorrect": "Onde quedou o sono de ser estudado polas xeracións venideras?",
+    "correct_standard": "Onde quedou o soño de ser estudado polas xeracións vindeiras?"
+  },
+  {
+    "pair_id": 265,
+    "incorrect": "O correcto sería xuzgar a sociedade por como son as persoas que a comprenden e non por como son aquelas que se dedican a ver a televisión e xogar con peluches.",
+    "correct_standard": "O correcto sería xulgar a sociedade por como son as persoas que a integran e non por como son aquelas que se dedican a ver a televisión e xogar con peluches."
+  },
+  {
+    "pair_id": 266,
+    "incorrect": "A solución está por comezar a cambiar a sociedade e tratar de arranxar os erros que nos levaron ata aquí.",
+    "correct_standard": "A solución está en comezar a cambiar a sociedade e tratar de arranxar os erros que nos levaron ata aquí."
+  },
+  {
+    "pair_id": 267,
+    "incorrect": "Pero a sociedade non pode depender só de xogar ao futbol ou ser modelo.",
+    "correct_standard": "Pero a sociedade non pode depender só de xogar ao fútbol ou ser modelo."
+  },
+  {
+    "pair_id": 268,
+    "incorrect": "Hoxe en día nada é gratis, todo ten un precio.",
+    "correct_standard": "Hoxe en día nada é gratis, todo ten un prezo."
+  },
+  {
+    "pair_id": 269,
+    "incorrect": "Por outra banda, podemos poñer como exemplo tamén a parexa de Cristiano Ronaldo, unha muller que ata o momento en que se coñeceu que tiña unha relación co futbolista non se sabía nada dela.",
+    "correct_standard": "Por outra banda, podemos poñer como exemplo tamén a parella de Cristiano Ronaldo, unha muller que, ata o momento en que se coñeceu que tiña unha relación co futbolista, non se sabía nada dela."
+  },
+  {
+    "pair_id": 270,
+    "incorrect": "Sin embargo, ahora todas as nenas queren ser coma ela.",
+    "correct_standard": "Porén, agora todas as nenas queren ser coma ela."
+  },
+  {
+    "pair_id": 271,
+    "incorrect": "Pero tamén é cierto que sempre procuramos \"copiar\" a alguén e normalmente non é bo.",
+    "correct_standard": "Pero tamén é certo que sempre procuramos \"copiar\" a alguén e normalmente non é bo."
+  },
+  {
+    "pair_id": 272,
+    "incorrect": "En conclusión, a utilización da palabra é necesaria para enfrentarnos a algunhas situacións delicadas.",
+    "correct_standard": "En conclusión, a utilización da palabra é necesaria para enfrontarnos a algunhas situacións delicadas."
+  },
+  {
+    "pair_id": 273,
+    "incorrect": "No meu caso non tería ese tipo de discusión, porque si se pode eu iría ao máis barato para non gastar moito.",
+    "correct_standard": "No meu caso non tería ese tipo de discusión, porque se se pode eu iría ao máis barato para non gastar moito."
+  },
+  {
+    "pair_id": 274,
+    "incorrect": "Véndesenos cada día mediante publicidade, \"marketing\" e imaxes unha determinada realidade e esta éntranos polos ollos sen caer na conta da súa falsedade.",
+    "correct_standard": "Véndesenos cada día mediante publicidade, \"marketing\", e imaxes unha determinada realidade e esta éntranos polos ollos sen caer na conta da súa falsidade."
+  },
+  {
+    "pair_id": 275,
+    "incorrect": "Rematamos por creer que o importante é ter unha cara sen manchas, o último móbil ou o mellor coche do mercado.",
+    "correct_standard": "Rematamos por crer que o importante é ter unha cara sen manchas, o último móbil ou o mellor coche do mercado."
+  },
+  {
+    "pair_id": 276,
+    "incorrect": "Cando hai un atentado ou un desastre natural subimos á rede imaxes o frases como \"pray for París\".",
+    "correct_standard": "Cando hai un atentado ou un desastre natural subimos á rede imaxes ou frases como \"pray for París\"."
+  },
+  {
+    "pair_id": 277,
+    "incorrect": "Prodúcense e gáñanse máis cartos emitindo o contenido mencionado primeiramente.",
+    "correct_standard": "Prodúcense e gáñanse máis cartos emitindo o contido mencionado primeiramente."
+  },
+  {
+    "pair_id": 278,
+    "incorrect": "Un dos problemas, inclusive o máis importante é a falta de comunicación entre pais e fillos, a cal leva a peleas e discusións innecesarias.",
+    "correct_standard": "Un dos problemas, inclusive o máis importante, é a falta de comunicación entre pais e fillos, a cal leva a pelexas e discusións innecesarias."
+  },
+  {
+    "pair_id": 279,
+    "incorrect": "A autora fala sobre a sociedade xoven e como marcan as súas pautas a nivel social e académico.",
+    "correct_standard": "A autora fala sobre a sociedade moza e como marcan as súas pautas a nivel social e académico."
+  },
+  {
+    "pair_id": 280,
+    "incorrect": "É iso algo perxudicial para a sociedade?",
+    "correct_standard": "É iso algo prexudicial para a sociedade?"
+  },
+  {
+    "pair_id": 281,
+    "incorrect": "Triunfar no deporte que che gusta practicar pode ser o soño de calquer persoa.",
+    "correct_standard": "Triunfar no deporte que che gusta practicar pode ser o soño de calquera persoa."
+  },
+  {
+    "pair_id": 282,
+    "incorrect": "Esperemos que o panorama cambie o se non, que Deus nos pille confesados.",
+    "correct_standard": "Esperemos que o panorama cambie ou, se non, que Deus nos pille confesados."
+  },
+  {
+    "pair_id": 283,
+    "incorrect": "Ela non sae cada mediodía no telediario nin é practicamente nunca portada do xornal.",
+    "correct_standard": "Ela non sae cada mediodía no telexornal nin é practicamente nunca portada do xornal."
+  },
+  {
+    "pair_id": 284,
+    "incorrect": "Aparte de que a muller no mundo do deporte carece de recoñecemento, o fútbol está por enriba de calquera outro deporte.",
+    "correct_standard": "Á parte de que a muller no mundo do deporte carece de recoñecemento, o fútbol está por enriba de calquera outro deporte."
+  },
+  {
+    "pair_id": 285,
+    "incorrect": "Non é saudable nin recomendable pero a sociedade de hoxe en día é moi perxudicial para os que se deixan influenciar.",
+    "correct_standard": "Non é saudable nin recomendable, pero a sociedade de hoxe en día é moi prexudicial para os que se deixan influenciar."
+  },
+  {
+    "pair_id": 286,
+    "incorrect": "En canto ao problema do texto, penso que a filla fixo moi mal chamando ao pai, sabendo que o interrumpiría no traballo, só porque a nai non lle consentiu facer algo tan materialista como é \"ir de compras\".",
+    "correct_standard": "En canto ao problema do texto, penso que a filla fixo moi mal chamando ao pai, sabendo que o interrompería no traballo, só porque a nai non lle consentiu facer algo tan materialista como é \"ir de compras\"."
+  },
+  {
+    "pair_id": 287,
+    "incorrect": "A adolescencia, na meirande parte dos casos, crea no entorno familiar desacordos entre pais e fillos que non soen chegar a consenso.",
+    "correct_standard": "A adolescencia, na meirande parte dos casos, crea no contexto familiar desacordos entre pais e fillos que non adoitan chegar a consenso."
+  },
+  {
+    "pair_id": 288,
+    "incorrect": "A relación entre pais e adolescentes é compricada porque un problemiña dos adolescentes para eles é un mundo e para os seus pais é insignificante.",
+    "correct_standard": "A relación entre pais e adolescentes é complicada porque un problemiña dos adolescentes para eles é un mundo e para os seus pais é insignificante."
+  },
+  {
+    "pair_id": 289,
+    "incorrect": "O texto reflexa máis dun problema entre pais e fillos adolescentes.",
+    "correct_standard": "O texto reflicte máis dun problema entre pais e fillos adolescentes."
+  },
+  {
+    "pair_id": 290,
+    "incorrect": "A todo isto, non pretendo afirmar que non hai traballo de fondo, de feito, hai moitas horas de esforzo e traballo, pero iso non o mostran; os rigurosos e duros adestramentos diarios, todas as veces que se cometen erros e hai que repetir o exercicio ou dar outra volta para afianzar terreo.",
+    "correct_standard": "A todo isto, non pretendo afirmar que non hai traballo de fondo, de feito, hai moitas horas de esforzo e traballo, pero iso non o mostran; os rigorosos e duros adestramentos diarios, todas as veces que se cometen erros e hai que repetir o exercicio ou dar outra volta para afianzar terreo."
+  },
+  {
+    "pair_id": 291,
+    "incorrect": "As grandes empresas traballan para proporcionarnos todo tipo de artefactos que cremos necesitar pero que non son máis ca un engano.",
+    "correct_standard": "As grandes empresas traballan para proporcionarnos todo tipo de artefactos que cremos necesitar, pero que non son máis ca un engano."
+  },
+  {
+    "pair_id": 292,
+    "incorrect": "Nos últimos anos, a gastronomía acadou tanta popularidade porque tamén melloraron as condicións das cociñas, a limpeza, presentación... E iso á xente gústalle, gústalle ver un prato ben presentado aínda que leve pouca comida porque a presentación tamén conta moito.",
+    "correct_standard": "Nos últimos anos, a gastronomía acadou tanta popularidade porque tamén melloraron as condicións das cociñas, a limpeza, presentación... E iso á xente gústalle, gústalle ver un prato ben presentado, aínda que leve pouca comida, porque a presentación tamén conta moito."
+  },
+  {
+    "pair_id": 293,
+    "incorrect": "Nestes últimos anos xurdiron numerosas tendencias e correntes gastronómicas que grazas a Internet acadaron moita fama e moita repercusión.",
+    "correct_standard": "Nestes últimos anos xurdiron numerosas tendencias e correntes gastronómicas que, grazas a Internet, acadaron moita fama e moita repercusión."
+  },
+  {
+    "pair_id": 294,
+    "incorrect": "Este feito súmase á moda de ir a eses restaurantes modernos e caros a comer moi pouca cousa pero moi rica e sobre todo, moi cara.",
+    "correct_standard": "Este feito súmase á moda de ir a eses restaurantes modernos e caros a comer moi pouca cousa pero moi rica e, sobre todo, moi cara."
+  },
+  {
+    "pair_id": 295,
+    "incorrect": "Nós nada máis nacer xa pasamos a formar parte do mundo do consumo e a produción.",
+    "correct_standard": "Nós, nada máis nacer, xa pasamos a formar parte do mundo do consumo e a produción."
+  },
+  {
+    "pair_id": 296,
+    "incorrect": "Non poderían existir a unha sen a outra por iso é imprescindible que se dean as dúas e así obter o máximo beneficio.",
+    "correct_standard": "Non poderían existir o un sen o outro, por iso é imprescindible que se dean os dous e así obter o máximo beneficio."
+  },
+  {
+    "pair_id": 297,
+    "incorrect": "Entón podemos afirmar que a produción e o consumo son procesos que están moi relacionados xa que se non existira un o outro tampouco tería sentido.",
+    "correct_standard": "Entón, podemos afirmar que a produción e o consumo son procesos que están moi relacionados, xa que se non existira un o outro tampouco tería sentido."
+  },
+  {
+    "pair_id": 298,
+    "incorrect": "A situación é delicada, xa que de querer frear este consumismo excesivo, todas as economías acabarían desfeitas.",
+    "correct_standard": "A situación é delicada, xa que, de querer frear este consumismo excesivo, todas as economías acabarían desfeitas."
+  },
+  {
+    "pair_id": 299,
+    "incorrect": "Na miña opinión quedará mentres a xente atope tempo suficiente para cociñar, pero en canto a xente se canse de utilizar o seu tempo libre en cociñar e apareza outra moda máis nova desaparecerá.",
+    "correct_standard": "Na miña opinión, quedará mentres a xente atope tempo suficiente para cociñar, pero en canto a xente se canse de utilizar o seu tempo libre en cociñar e apareza outra moda máis nova, desaparecerá."
+  },
+  {
+    "pair_id": 300,
+    "incorrect": "Porén, grazas á globalización e ás novas tecnoloxías este coñecemento estendeuse, o que na miña opinión supón un avance, xa que unha parte importante dunha cultura é a súa comida.",
+    "correct_standard": "Porén, grazas á globalización e ás novas tecnoloxías este coñecemento estendeuse, o que, na miña opinión, supón un avance, xa que unha parte importante dunha cultura é a súa comida."
+  },
+  {
+    "pair_id": 301,
+    "incorrect": "No texto expóñense dous casos de consumismo diferentes, pero que ao mesmo tempo son moi semellantes: mercar cousas non necesarias aínda que non se estea a vivir unha situacion económica favorable, e mercar produtos de marca porque se consideran mellores e gastar máis cartos deste xeito.",
+    "correct_standard": "No texto expóñense dous casos de consumismo diferentes, pero que ao mesmo tempo son moi semellantes: mercar cousas non necesarias, aínda que non se estea a vivir unha situacion económica favorable, e mercar produtos de marca porque se consideran mellores e gastar máis cartos deste xeito."
+  },
+  {
+    "pair_id": 302,
+    "incorrect": "Neste caso no texto observamos o problema de Mariano coa súa filla que quere ou pretende ir de compras a Londres e París cando seguramente no seu armario ten numerosas e abundantes pezas de roupa sen necesidade de comprar máis.",
+    "correct_standard": "Neste caso no texto observamos o problema de Mariano coa súa filla, que quere ou pretende ir de compras a Londres e París cando seguramente no seu armario ten numerosas e abundantes pezas de roupa sen necesidade de comprar máis."
+  },
+  {
+    "pair_id": 303,
+    "incorrect": "Neste texto escrito por Xavier Quiroga, ten como tema o conflito entre uns pais coa súa filla.",
+    "correct_standard": "Neste texto, escrito por Xavier Quiroga, ten como tema o conflito entre uns pais coa súa filla."
+  },
+  {
+    "pair_id": 304,
+    "incorrect": "En resumidas contas é unha cuestión de educación.",
+    "correct_standard": "En resumidas contas, é unha cuestión de educación."
+  },
+  {
+    "pair_id": 305,
+    "incorrect": "Estas personalidades non só son o modelo de nenos, tamén o son de adultos xa que manexan importantes cantidades de diñeiro por aparecer na televisión.",
+    "correct_standard": "Estas personalidades non só son o modelo de nenos, tamén o son de adultos, xa que manexan importantes cantidades de diñeiro por aparecer na televisión."
+  },
+  {
+    "pair_id": 306,
+    "incorrect": "Non pode deberse todo ás hormonas ¿non?",
+    "correct_standard": "Non pode deberse todo ás hormonas, ¿non?"
+  },
+  {
+    "pair_id": 307,
+    "incorrect": "Dende o meu punto de vista ter unha boa relación cos teus pais é fundamental xa que ao ser máis maiores e querer o mellor para ti, poden dar os mellores consellos e moitas situacións irían a mellor.",
+    "correct_standard": "Dende o meu punto de vista, ter unha boa relación cos teus pais é fundamental, xa que, ao ser máis maiores e querer o mellor para ti, poden dar os mellores consellos e moitas situacións irían a mellor."
+  },
+  {
+    "pair_id": 308,
+    "incorrect": "Como xa dixen antes, os adolescentes non sabemos o que queremos é dicir somos moi caprichosos e queremos todo en todo momento, somos peor con 16 ou 17 anos que con catro.",
+    "correct_standard": "Como xa dixen antes, os adolescentes non sabemos o que queremos, é dicir, somos moi caprichosos e queremos todo en todo momento, somos peor con 16 ou 17 anos que con catro."
+  },
+  {
+    "pair_id": 309,
+    "incorrect": "A mocidade ten as súas cousas malas pero tamén boas, xa que todos buscamos o mellor futuro, e isto conséguese culturizándonos e formándonos.",
+    "correct_standard": "A mocidade ten as súas cousas malas, pero tamén boas, xa que todos buscamos o mellor futuro, e isto conséguese culturizándonos e formándonos."
+  },
+  {
+    "pair_id": 310,
+    "incorrect": "Se unha persoa non está cómoda no seu ámbito familiar o mellor que pode facer é intentar solucionalo e erradicar o conflito.",
+    "correct_standard": "Se unha persoa non está cómoda no seu ámbito familiar, o mellor que pode facer é intentar solucionalo e erradicar o conflito."
+  },
+  {
+    "pair_id": 311,
+    "incorrect": "Si que é verdade que a adolescencia é unha etapa un pouco complicada pero que todos acabamos pasamos e sabemos como pode influír.",
+    "correct_standard": "Si que é verdade que a adolescencia é unha etapa un pouco complicada, pero que todos acabamos, pasamos e sabemos como pode influír."
+  },
+  {
+    "pair_id": 312,
+    "incorrect": "O que quero dicir con isto é que tódolos traballos se deberían valorar do mesmo xeito xa que todos levan o seu tempo e esforzo, sexa do tipo que sexa.",
+    "correct_standard": "O que quero dicir con isto é que tódolos traballos se deberían valorar do mesmo xeito, xa que todos levan o seu tempo e esforzo, sexa do tipo que sexa."
+  },
+  {
+    "pair_id": 313,
+    "incorrect": "En certo sentido non é problema dos nenos, é un problema da sociedade e dos valores que se transmiten hoxe en día.",
+    "correct_standard": "En certo sentido, non é problema dos nenos, é un problema da sociedade e dos valores que se transmiten hoxe en día."
+  },
+  {
+    "pair_id": 314,
+    "incorrect": "Na miña opinión unha sociedade así non é boa e hai que promover a cultura e o esforzo e non darlle relevancia a quen intenta vivir do conto.",
+    "correct_standard": "Na miña opinión, unha sociedade así non é boa e hai que promover a cultura e o esforzo e non darlle relevancia a quen intenta vivir do conto."
+  },
+  {
+    "pair_id": 315,
+    "incorrect": "E isto non é favorable nin para os pais nin para os fillos",
+    "correct_standard": "E isto non é favorable nin para os pais nin para os fillos."
+  }
+]
