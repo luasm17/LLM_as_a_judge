@@ -22,54 +22,48 @@ LLM_as_a_judge/
 Contiene los datos utilizados durante el trabajo:
 
 * `CORTEGAL/`: corpus de partida.
-* `dataset_A/`: conjunto usado para preparar y entrenar el juez.
-* `dataset_B/`: conjunto reservado para evaluación.
-* `gold_standard/`: anotación de referencia usada para comparar las predicciones de los modelos.
+* `dataset_A/`: dataset usado para preparar y entrenar el juez.
+* `dataset_B/`: dataset de evaluación.
+* `gold_standard/`: dataset anotado de referencia usado para analizar las predicciones de los modelos.
 
 ### `ensayos_seleccion_modelo/`
 
-Incluye pruebas iniciales para seleccionar y explorar modelos antes del ajuste final. Esta parte recoge scripts y datos de prueba usados en la fase preliminar del trabajo.
+Incluye las pruebas iniciales para la selección y exploración de modelos antes de coemnzar la experimentación central del trabajo; aquí se recogen los scripts y datos de prueba empleados en esa fase preliminar.
 
 ### `LoRA/`
 
-Contiene el entrenamiento mediante LoRA del modelo Selene usado como juez.
+Contiene el entrenamiento mediante Low-Rank Adaptation (LoRA) del modelo AtlaAI/Selene-1-Mini-Llama-3.1-8B usado como juez.
 
 Incluye:
 
-* `lora_selene.py`: script principal de entrenamiento.
+* `lora_selene.py`: script principal de fine-tuning.
 * `splits/`: particiones de entrenamiento, validación y test.
 * `checkpoint-500/` y `checkpoint-1020/`: checkpoints generados durante el entrenamiento.
 * Archivos del adaptador LoRA final, tokenizer y configuración asociada.
 
-El entrenamiento se plantea como una tarea de generación controlada: el modelo recibe un `input_corrector` y un `output_corrector`, y debe devolver únicamente la etiqueta `0` o `1`.
-
 ### `evaluacion_automatica/`
 
-Contiene los resultados automáticos de comparación entre:
+Contiene los archivos relacionados con la comparación automática entre:
 
 * el modelo base,
 * el modelo fine-tuned con LoRA,
 * y el gold standard.
 
-El script `calculo_metricas_base_ft_gold.py` calcula métricas como accuracy, balanced accuracy, precision, recall, F1, MCC, Cohen’s kappa y matrices de confusión.
+El script `calculo_metricas_base_ft_gold.py` calcula métricas como precision, recall, F1, MCC o Cohen’s kappa, así como las matrices de confusión para cada modelo; se guardan aquí también los resultados obtenidos.
 
 ### `evaluacion_manual/`
 
-Contiene la muestra empleada para el análisis manual de las explicaciones generadas por el modelo fine-tuned.
+Contiene la muestra aleatoria empleada para el análisis manual de las explicaciones generadas por el modelo fine-tuned.
 
-El script `sample_evaluacion_manual.py` genera una muestra aleatoria y añade columnas de evaluación manual, como consistencia, corrección gramatical, naturalidad y corrección factual.
+El script `sample_evaluacion_manual.py` genera una muestra de 50 instancias y añade las columnas necesarias para la evaluación manual, como consistencia, corrección gramatical, naturalidad o corrección factual.
 
 ## Flujo general del trabajo
 
-1. Preparación de los datos a partir de CORTEGAL.
-2. Creación de un gold standard para evaluar las salidas del corrector.
-3. Entrenamiento de un juez LLM mediante LoRA.
+1. Preparación de los datos de entranmienot (dataset A) y evaluación (dataset B) a partir de CORTEGAL.
+2. Creación de un gold standard (a partir del dataset B) para la evaluación automática.
+3. Entrenamiento de un LLM-as-a-Judge (AtlaAI/Selene-1-Mini-Llama-3.1-8B) mediante la técnica LoRA.
 4. Comparación automática entre modelo base, modelo fine-tuned y gold standard.
-5. Análisis manual cualitativo de una muestra de explicaciones.
-
-## Modelo
-
-El ajuste se realiza sobre Selene mediante LoRA, con el objetivo de adaptar el modelo a una tarea concreta de evaluación gramatical en gallego sin reentrenar todos sus parámetros.
+5. Análisis manual cualitativo de las predicciones del modelo fine-tuned, así como de una muestra de las explicaciones por dicho modelo.
 
 ## Nota
 
