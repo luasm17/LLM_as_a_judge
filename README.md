@@ -1,6 +1,6 @@
 # LLM_as_a_judge
 
-Este repositorio recoge el código, los datos intermedios y los resultados asociados al trabajo de fin de máster titulado "LLM como jueces para la evaluación automática de la corrección gramatical en gallego: una aproximación exploratoria". El objetivo principal es explorar el uso de modelos de lenguaje como jueces automáticos para evaluar correcciones gramaticales en gallego.
+Este repositorio recoge el código, los datos intermedios y los resultados asociados al trabajo de fin de máster titulado "LLM como jueces para la evaluación automática de la corrección gramatical en gallego: una aproximación exploratoria". El objetivo principal es explorar el uso de modelos de lenguaje como jueces automáticos (conocido como LLM-as-a-Judge) para evaluar la corrección gramatical en lengua gallega.
 
 ## Estructura del repositorio
 
