@@ -71,4 +71,10 @@ Este repositorio está pensado como material complementario del TFM. Algunos arc
 
 ## Licencia
 
-Este repositorio se distribuye bajo licencia MIT.
+## Licencia
+
+El código fuente incluido en este repositorio se distribuye bajo la licencia MIT.
+
+Los datasets, corpus y recursos lingüísticos incluidos o derivados pueden estar sujetos a sus licencias y condiciones de uso originales. Antes de reutilizar, redistribuir o modificar estos recursos, se recomienda consultar las licencias correspondientes de las fuentes originales.
+
+Las anotaciones, particiones y recursos generados específicamente para este trabajo se proporcionan exclusivamente con fines académicos y de investigación.
