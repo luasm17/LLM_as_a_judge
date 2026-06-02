@@ -6,15 +6,14 @@ Dividimos CORTEGAL en 5 partes con tamaños fijos:
 - 4 partes de 1700 ejemplos
 - 1 parte final de 315 ejemplos
 
-Objetivo metodológico:
 Queremos que los tipos de error (tag_id) queden repartidos entre las particiones
 de la forma más equilibrada posible. Para ello:
 1) Leemos los tag_id de cada ejemplo (desde la lista "corrections").
 2) Calculamos objetivos por partición para cada tag_id en proporción al tamaño.
-3) Asignamos ejemplos a particiones con una heurística greedy que intenta no
+3) Asignamos ejemplos a particiones con una heurística que intenta no
    sobrepasar esos objetivos mientras respeta los tamaños exactos.
 
-Output (solo 5 ficheros JSON, nada más):
+Output (5 ficheros):
 - case_1.json  -> Caso 1: incorrect -> correct_standard, tag=0
 - case_2.json  -> Caso 2: correct_standard -> correct_standard, tag=0
 - case_3.json  -> Caso 3: correct_standard -> incorrect, tag=1
