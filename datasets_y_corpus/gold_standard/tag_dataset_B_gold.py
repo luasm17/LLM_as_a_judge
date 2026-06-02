@@ -18,19 +18,19 @@ def parse_args():
 
     parser.add_argument(
         "--input_xlsx",
-        default="/home/compartido/lua/CORTEGAL_splits/dataset_B.xlsx",
+        required=True,
         help="Ruta al Excel de entrada con las columnas Orixinal y Corrección."
     )
 
     parser.add_argument(
         "--gold_json",
-        default="/home/compartido/lua/CORTEGAL_splits/pairs_dataset_B.json",
+        required=True,
         help="Ruta al JSON con los pares gold."
     )
 
     parser.add_argument(
         "--output_dir",
-        default="/home/compartido/lua/CORTEGAL_splits",
+        required=True,
         help="Carpeta donde se guardarán los ficheros de salida."
     )
 
