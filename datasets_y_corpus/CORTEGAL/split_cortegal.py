@@ -293,8 +293,8 @@ def main() -> None:
     parser = argparse.ArgumentParser(
         description="Divide CORTEGAL en 5 partes (1700x4 + 315), equilibrando tag_id, y crea casos 1-4 + pares."
     )
-    parser.add_argument("--input", default="/home/compartido/lua/CORTEGAL.json", help="Ruta al CORTEGAL.json.")
-    parser.add_argument("--out_dir", default="/home/compartido/lua/CORTEGAL_5partes", help="Directorio de salida.")
+    parser.add_argument("--input", required=True, help="Ruta al CORTEGAL.json.")
+    parser.add_argument("--out_dir", required=True, help="Directorio de salida.")
     parser.add_argument(
         "--sizes",
         type=str,
