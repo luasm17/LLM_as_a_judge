@@ -59,7 +59,7 @@ El script `sample_evaluacion_manual.py` genera una muestra de 50 instancias y a�
 
 ## Flujo general del trabajo
 
-1. Preparación de los datos de entranmienot (dataset A) y evaluación (dataset B) a partir de CORTEGAL.
+1. Preparación de los datos de entranmiento (dataset A) y evaluación (dataset B, gold standard) a partir de CORTEGAL.
 2. Creación de un gold standard (a partir del dataset B) para la evaluación automática.
 3. Entrenamiento de un LLM-as-a-Judge (AtlaAI/Selene-1-Mini-Llama-3.1-8B) mediante la técnica LoRA.
 4. Comparación automática entre modelo base, modelo fine-tuned y gold standard.
@@ -68,8 +68,6 @@ El script `sample_evaluacion_manual.py` genera una muestra de 50 instancias y a�
 ## Nota
 
 Este repositorio está pensado como material complementario del TFM. Algunos archivos corresponden a resultados intermedios o pruebas exploratorias, por lo que la estructura refleja también el proceso real de experimentación.
-
-## Licencia
 
 ## Licencia
 
