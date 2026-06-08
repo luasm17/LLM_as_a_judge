@@ -28,7 +28,7 @@ Contiene los datos utilizados durante el trabajo:
 
 ### `ensayos_seleccion_modelo/`
 
-Incluye las pruebas iniciales para la selección y exploración de modelos antes de coemnzar la experimentación central del trabajo; aquí se recogen los scripts y datos de prueba empleados en esa fase preliminar.
+Incluye las pruebas iniciales para la selección y exploración de modelos antes de comenzar la experimentación central del trabajo; aquí se recogen los scripts y datos de prueba empleados en esa fase preliminar.
 
 ### `LoRA/`
 
