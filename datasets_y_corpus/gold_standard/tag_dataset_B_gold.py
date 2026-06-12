@@ -6,7 +6,6 @@ import json
 import argparse
 import pandas as pd
 
-
 def parse_args():
     """
     Aquí definimos los argumentos del script.
