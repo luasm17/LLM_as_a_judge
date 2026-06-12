@@ -7,7 +7,7 @@ Generamos un fichero .txt con las frases incorrectas del pairs_dataset_B, la qui
 Este fichero se usa como entrada para el corrector Salamandra. A partir de estas
 frases, Salamandra genera sus propias correcciones, que después se recogen en un
 Excel con la frase incorrecta original y la salida producida por el corrector.
-Ese Excel será el Dataset B usado en la evaluación.
+Ese Excel será el Dataset B usado en la evaluación. 
 """
 
 import argparse
