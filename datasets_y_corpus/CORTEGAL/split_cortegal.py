@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+
 """
 Dividimos CORTEGAL en 5 partes con tamaños fijos:
 - 4 partes de 1700 ejemplos
